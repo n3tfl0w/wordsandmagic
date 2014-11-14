@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="container12">
+    <div id="article" class="column8 prefix2 post">
+        <h2>{{ page.title }}</h2>
+        <span class="who">Words: {% if page.author %}{{ page.author }}{% endif %} <img class="avatar" src="http://www.gravatar.com/avatar/7ce9cd063e3c0283019c3af83313b5ba.png"></img></span>
+        <article>
+        {{ content }}
+        </article>
+        <span class="hitmeup">Got something to add, or something to complain about? Contact me on Twitter: <a href="http://www.twitter.com/dan_oneill">@dan_oneill</a> or email me <a href="mailto:dan.oneill@live.ie">dan.oneill@live.ie</a></span>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- New_WM_After -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-1580942310742378"
+                 data-ad-slot="7780015519"
+                 data-ad-format="auto"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+        <div class="tweet-it-wrapper">
+					<div class="tweet-it-content">
+						<header>
+							<h3 class="tweet-it-title">Use Twitter? Liked this or found it interesting? Why not share it...</h3>
+						</header>
+						<p class="tweet-it-desc">"{{ page.title }}"</p>
+						<a href="//twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url | uri_escape }}{{page.url| uri_escape }}&amp;via=dan_oneill" class="tweet-it-button" title="Share this on Twitter">Tweet it</a
+						<span class="tweet-it-by">Share widget inspired by the <a href="http://blog.pickcrew.com">Pickcrew Blog</a></span>
+					</div>
+				</div>
+    </div>
+</div>
+<div class="bg-img"></div>
