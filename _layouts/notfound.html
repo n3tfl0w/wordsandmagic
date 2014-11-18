@@ -13,4 +13,15 @@ layout: default
 </div>
 <div class="bg-img"></div>
 
-<script src="/404.js"></script>
+<script>
+    function downloadJSAtOnload2() {
+        var element = document.createElement("script");
+        element.src = "/404.js";
+        document.body.appendChild(element);
+        }
+        if (window.addEventListener)
+        window.addEventListener("load", downloadJSAtOnload2, false);
+        else if (window.attachEvent)
+        window.attachEvent("onload", downloadJSAtOnload2);
+        else window.onload = downloadJSAtOnload2;
+</script>

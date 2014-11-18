@@ -17,7 +17,10 @@ function createCustomSearch() {
         // Send the request to the custom search API
         $.getJSON(API_URL, queryParams, function(response) {
             if (response.items && response.items.length) {
-                console.log(response.items[0].link);
+                context.showDialog(response.items[0].link);
+            }
+            else {
+                context.showDialog('empty');
             }
         });
     };
@@ -29,15 +32,14 @@ function createCustomSearch() {
             suggestedLink.attr('href', url);
             suggestedLink.text(url);
             $('#suggestion').html(suggestedLink);
-            dialog.showModal();
         }
-    };
-    this.hideDialog = function () {
-        dialog.close();
-    };
+        else if (url == 'empty') {
+            $('#suggestion').html('Huh, that\'s weird, Google couldn\'t find a match.');
+        }
+    }
 }
 
-$(document).ready(function() {
+$(document).ready(function(){
     var customSearch = new createCustomSearch();
     var path = window.location.pathname;
     var phrase = decodeURIComponent(path.replace(/\/+/g, ' ').trim());
