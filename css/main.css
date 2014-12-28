@@ -225,7 +225,7 @@ body{
 }
 
 h2{
-    font: bold 36px/42px 'Roboto', sans-serif;
+    font: bold 36px/42px 'Playfair Display', serif;
     text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
     text-align:left;
     margin-top:30px;
@@ -614,8 +614,7 @@ text-align: center;}
 @media (min-width: 480px) {
 
     h2{
-        
-        font: bold 48px/56px 'Georgia', serif;
+        font: bold 68px/76px 'Playfair Display', serif;
         text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
         text-align:center;
         margin-top:30px;
