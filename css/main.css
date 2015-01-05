@@ -278,6 +278,13 @@ p{
     text-align:left;
     clear:both;
 }
+#article ul{
+    font: 16px Georgia, "times new roman", times, serif;
+    line-height: 1.6em;
+    margin-bottom: 25px;
+    text-align:left;
+    clear:both;
+}
 blockquote p:first-of-type{
     font-size: 18px;
     font-style: italic;
@@ -725,6 +732,17 @@ text-align: center;}
         font: 18px Georgia, "times new roman", serif;
         line-height: 1.3em;
         margin-bottom: 25px;
+    }
+    #article ul{
+        font: 22px Georgia, "times new roman", times, serif;
+        line-height: 1.6em;
+        margin-bottom: 25px;
+        margin-left: 35px;
+        text-align:left;
+        clear:both;
+    }
+    #article ul li{
+        margin-bottom: 5px;
     }
 }
 
