@@ -5,7 +5,8 @@ layout: default
 <div class="container12">
     <div id="article" class="column8 prefix2 post">
         <h2>{{ page.title }}</h2>
-        <span class="who">Words: {% if page.author %}{{ page.author }}{% endif %} <img class="avatar" src="http://www.gravatar.com/avatar/7ce9cd063e3c0283019c3af83313b5ba.png"></img></span>
+        
+        <span class="who"><img class="avatar" src="http://www.gravatar.com/avatar/7ce9cd063e3c0283019c3af83313b5ba.png" /><br />by {% if page.author %}{{ page.author }}{% endif %} </span>
         <article>
         {{ content }}
         </article>
