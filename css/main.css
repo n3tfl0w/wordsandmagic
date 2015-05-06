@@ -310,7 +310,10 @@ p > img:only-of-type{
         width: 100%;
         clear: both;
     }
-
+.post iframe.twitter-tweet-rendered{
+    float: none;
+    margin: 10px auto !important;
+}
 .post iframe{
     float: left;
     margin: 0 -30px 25px -30px;
