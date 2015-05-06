@@ -292,7 +292,32 @@ blockquote p:first-of-type{
 blockquote p{
     font-size: 18px;
     font-style: italic;
+    margin-bottom: 0px;
 }
+blockquote p:before{
+    float: left;
+    margin-left: -140px;
+    padding: 0;
+    margin-top:25px;
+    font-size: 200px;
+    font-style: italic;
+    content: "\201C";
+    line-height: 0;
+}
+blockquote{
+        position: relative;
+    overflow: hidden;
+}
+/*blockquote p:after{
+    float: right;
+    margin-right: -100px;
+    margin-top:150px;
+    font-size: 200px;
+    font-style: italic;
+    content: "\201D";
+    
+    display: inline-block;
+}*/
 blockquote p:last-of-type{
     margin-bottom: 0px;
 }
@@ -769,9 +794,10 @@ text-align: center;}
         font-size: 18px;
         font-style: italic;
     }
-    blockquote p{
+    blockquote p:last-of-type{
         font-size: 18px;
         font-style: italic;
+        margin-bottom: 0px;
     }
     .footer-container p,.footer-container ul{
         font: 18px Georgia, "times new roman", serif;
