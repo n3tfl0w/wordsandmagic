@@ -34,8 +34,10 @@ The game moves at a pretty good pace, and I thoroughly enjoyed it, having played
 
 However… 
 
-I was immediately disappointed at the ending of the game. There’s nothing wrong with it really other than it ends. It was a shock to the system when the credits rolled when they did. In fact, I was writing this review before I learned that this game is a multi part game, a planned trilogy. I searched through the steam page to see had a missed an obvious Part 1 banner, but as far as I can tell only this line, at the very end of the page points out this news:
+I was immediately disappointed at the ending of the game. There’s nothing wrong with it really other than it ends. It was a shock to the system when the credits rolled when they did. In fact, I was writing this review before I learned that this game is a multi part game, a planned trilogy. I searched through the steam page to see had a missed an obvious Part 1 banner, but as far as I can tell only this line, at the very end of the page points out this news[^1]:
 
 > The Banner Saga is the first part of a planned trilogy. If you complete this game, your unique progress and storyline will carry over to the next part of the story.
 
 Well that’s a massive relief. Looking forward to the next two parts.
+
+[^1]: Right at the bottom of this page - [http://store.steampowered.com/app/237990/](http://store.steampowered.com/app/237990/)
