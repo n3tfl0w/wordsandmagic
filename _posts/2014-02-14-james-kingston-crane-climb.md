@@ -8,7 +8,8 @@ layout: video
 ---
 
 ## James Kingston crane climb
-***
+
+------
 
 James Kingston climbs a construction crane in Southampton, in the UK.
 
