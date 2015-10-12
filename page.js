@@ -8,7 +8,7 @@
         $(".videoblock").fitVids();
     });
     $(document).ready(function(){
-        cookieChoices.showCookieConsentBar('WAM uses Google Analytics (and thus a google cookie) to better understand you, our readers.','Got It!', 'Learn more about how Google uses Cookies', 'http://www.google.com/intl/en/policies/technologies/cookies/');
+        cookieChoices.showCookieConsentBar('WAM uses Google Analytics (and thus a google cookie) to better understand you, my readers.','Got It!', 'Learn more about how Google uses Cookies', 'http://www.google.com/intl/en/policies/technologies/cookies/');
     });
 
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
