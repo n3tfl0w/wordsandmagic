@@ -205,9 +205,9 @@ body{
 }*/
 
 .container12 blockquote {
-    margin-left: -999em;
-    margin-right: -999em;
-    padding: 2.665em 999em;
+    margin-left: -2em;
+    margin-right: -2em;
+    padding: 2.665em 2em;
     color: #F5F6F6;
     background: repeat scroll 0% 0% #e86644;
     opacity: 1;
@@ -287,17 +287,17 @@ p{
     clear:both;
 }
 blockquote p:first-of-type{
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
 }
 blockquote p{
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
     margin-bottom: 0px;
 }
 blockquote p:before{
     float: left;
-    margin-left: -140px;
+    margin-left: 0px;
     padding: 0;
     margin-top:25px;
     font-size: 200px;
@@ -792,11 +792,11 @@ text-align: center;}
         line-height: 1.6em;
     }
     blockquote p:first-of-type{
-        font-size: 18px;
+        font-size: 20px;
         font-style: italic;
     }
     blockquote p:last-of-type{
-        font-size: 18px;
+        font-size: 20px;
         font-style: italic;
         margin-bottom: 0px;
     }
