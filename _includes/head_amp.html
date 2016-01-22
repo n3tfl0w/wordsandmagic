@@ -1,0 +1,46 @@
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "{{ page.title }}",
+        "image": [
+          "{{ page.image | prepend: site.baseurl | prepend: site.url }}"
+        ]
+      }
+    </script>
+    <style>body {opacity: 0}</style><noscript><style>body {opacity: 1}</style></noscript>
+    
+    <link rel="stylesheet" href="{{ "/css/normalize.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/1140.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/main.min.css" | prepend: site.baseurl }}">
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic' rel='stylesheet' type='text/css'>
+    <script defer src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script async src="{{ "/scripts/modernizr-2.6.2-respond-1.1.0.min.js" | prepend: site.baseurl }}"></script>
+    <script defer src="{{ "/scripts/cookiechoices.js" | prepend: site.baseurl }}"></script>
+    <script defer src="{{ "/scripts/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="author" href="https://plus.google.com/u/0/115146120079739811289"/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:site_name" content="Words and Magic" />
+    {% if page.image %}
+        {% if page.image contains 'wordsandmagic' %}
+        <meta name="og:image" content="{{ page.image }}">
+        {% else %}
+        <meta name="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+        {% endif %}
+    {% endif %}
+    <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
+    <meta name="twitter:site" content="@dan_oneill"/>
+    <meta name="twitter:domain" content="Words and Magic"/>
+    <meta name="twitter:creator" content="@dan_oneill"/>
+</head>
