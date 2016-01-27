@@ -5,6 +5,7 @@ author: Dan O’Neill
 Date: 2015/07/10
 feat_vid: //www.youtube.com/embed/QLZkf6HvO2Q
 layout: video
+embeddable: true
 ---
 
 
