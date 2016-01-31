@@ -17,8 +17,11 @@
     <script async src="{{ "/scripts/modernizr-2.6.2-respond-1.1.0.min.js" | prepend: site.baseurl }}"></script>
     <script defer src="{{ "/scripts/cookiechoices.js" | prepend: site.baseurl }}"></script>
     <script defer src="{{ "/scripts/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
-    
-    <link rel="amphtml" href="{{ page.url | replace:'index.html','index.amp.html' | prepend: site.baseurl | prepend: site.url }}">
+    {% if page.layout == article %}
+    <link rel="amphtml" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}index.amp.html">
+    {% else %}
+    <link rel=" ">
+    {% endif %}
     <link rel="author" href="https://plus.google.com/u/0/115146120079739811289"/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />

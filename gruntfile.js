@@ -24,7 +24,7 @@ module.exports = function( grunt ) {
                 command : 'glynn'
             },
             jekyllBuild : {
-                command : 'jekyll build'
+                command : 'jekyll build --watch'
             }
         },
 
@@ -49,6 +49,6 @@ module.exports = function( grunt ) {
 
     // register custom grunt tasks
     grunt.registerTask( 'lintcheck', [ 'cssmin','csslint', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'dev', [ 'cssmin', 'shell:jekyllBuild', 'watch' ] )
+    grunt.registerTask( 'dev', [ 'cssmin', 'shell:jekyllBuild' ] )
     grunt.registerTask( 'deploy', [ 'cssmin', 'shell:jekyllDeploy' ] )
 };
