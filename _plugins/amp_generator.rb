@@ -36,10 +36,10 @@ module Jekyll
       site.posts.each do |post|
         if post.data["layout"] == 'article'
             post.data["layout"] = "articleamp"
-            post.content = replace(post.content)
             post.render(site.layouts, site.site_payload)
             post.write(site.dest, "index.amp.html")
             post.data["layout"] = 'article'
+            post.content = replace(post.content)
         end
       end
     end
@@ -51,8 +51,8 @@ module Jekyll
         content.gsub!(/ä/, '&auml;')
         content.gsub!(/Ä/, '&Auml;')
         content.gsub!(/ß/, '&szlig;')
-        content.gsub!(/ẞ/, '&#7838;')
-
+        #content.gsub!(/Garfield/, 'gunkfield')
+        #content.gsub!(/\<img[\s\w"=]+src/, '<amp-img src')
         content
     end
   end
