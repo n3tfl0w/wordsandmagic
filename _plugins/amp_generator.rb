@@ -38,11 +38,12 @@ module Jekyll
             post.data["layout"] = "articleamp"
             post.render(site.layouts, site.site_payload)
             post.write(site.dest, "index.amp.html")
-            post.data["layout"] = 'article'
             post.content = replace(post.content)
+            post.data["layout"] = 'article'
         end
       end
     end
+    
     def replace(content)
         content.gsub!(/ü/, '&uuml;')
         content.gsub!(/Ü/, '&Uuml;')
