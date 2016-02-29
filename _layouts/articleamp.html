@@ -1,0 +1,19 @@
+---
+layout: amp
+---
+
+<div class="container12">
+    <div id="article" class="column8 prefix2 post">
+        <article>
+            <header>
+                <h2 itemprop="headline">{{ page.title }}</h2>
+
+                <span itemprop="author" class="who"><amp-img src="http://www.gravatar.com/avatar/7ce9cd063e3c0283019c3af83313b5ba.png" class="avatar" width="36" height="36" /><br />by {% if page.author %}{{ page.author }}{% endif %} </span>
+            </header>
+            <div itemprop="articleBody">
+            {{ content | replace: 'img src','amp-img src' }}
+            </div>
+        </article>
+        <span class="hitmeup">Got something to add, or something to complain about? Contact me on Twitter: <a href="http://www.twitter.com/dan_oneill">@dan_oneill</a> or email me <a href="mailto:dan.oneill@live.ie">dan.oneill@live.ie</a></span>
+    </div>
+</div>

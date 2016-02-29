@@ -10,7 +10,9 @@
     "grunt-contrib-csslint": "^0.2.0",
     "grunt-contrib-cssmin": "^0.10.0",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-responsive-images-extender": "^2.0.0",
     "grunt-shell": "^0.7.0",
+    "imagesize": "~1.0.0",
     "load-grunt-tasks": "^0.6.0",
     "time-grunt": "^0.4.0"
   }

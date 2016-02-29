@@ -22,15 +22,15 @@ So we left Nairobi and set off for Lake Nakuru. Lake Nakuru is a place most peop
 
 We saw Rhino and more flamingoes than you can imagine in one place. We drove up to the famous Baboon cliff - which as an unbelievable view of the Lake and the surrounding Rift Valley. I was awestruck. 
 
-![Buffalo Run!](http://www.wordsandmagic.com/wp-content/uploads/97750030-e1358551987161-960x534.jpg) 
+![Buffalo Run!](images/97750030-e1358551987161-960x534.jpg) 
 
 Next on the list was the Masai Mara Reserve. We were camping in the park with a large number of other people. The campsite was guarded at night by a couple of Masai, and it had some of the basic amenities. We were fed and the camp had a nice reserve of alcohol - though we had brought our own. We spent many a night around the fire with a few beers. 
 
-![zebra](http://www.wordsandmagic.com/wp-content/uploads/zebra-960x636.jpg)
+![zebra](images/zebra-960x636.jpg)
 
 The park itself was amazing. I remember first entering the park and all I could see was blue sky. And within 10 minutes we could see Zebra and every so often even a number of Giraffes. I was immediately in love with the park. One morning we drove before dawn and found a pride of lions that no-one else was around. We had them all to ourselves for some time. The lions completely ignored us and continued drinking and lying around. 
 
-![97740032](http://www.wordsandmagic.com/wp-content/uploads/97740032-960x546.jpg)
+![97740032](images/97740032-960x546.jpg)
 
 Other days we drove around while herds of buffalo and zebra surrounded us. We watched a cheetah calmly munch down on a fresh catch. We watched as vultures circled overhead. We sat quietly as a family of elephants wandered straight passed us - close enough to smell. It was amazing. I would definitely do it again - maybe not on so small a budget but definitely worth doing it while I could. 
 
@@ -44,7 +44,7 @@ We had split our stay in Zanzibar in two parts - one a hotel stay in Stone Town 
 
 Stone Town is an amazing place. After the initial scare at night, walking around the town was very safe - even at night. Stone Town was used to some level of tourism so we were mostly left to ourselves. We stayed a few nights here eating and drinking by the beach and managed to take in some of the more famous places during the day. 
 
-![97740003](http://www.wordsandmagic.com/wp-content/uploads/97740003.jpg)
+![97740003](images/97740003.jpg)
 
 We then hired a taxi to take us up to Kendwa Rocks, which turned out to be a great little resort - nothing special but a great bar right on the oceanfront, and nice service and views. 
 
@@ -70,7 +70,7 @@ We barely made it on to the bus - we were the last passengers but we had made it
 
 ### Memories
 
-![97750002](http://www.wordsandmagic.com/wp-content/uploads/97750002-960x636.jpg)
+![97750002](images/97750002-960x636.jpg)
 
 I had a very poor camera with me at the time. I had been saving for a good camera but had missed my target by the time the trip came along. I want to say that though turned out to be a good thing. 
 

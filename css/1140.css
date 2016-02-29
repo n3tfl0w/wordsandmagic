@@ -257,5 +257,5 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 .row:after, .clearfix:after, .container12:after, .container16:after {clear:both;}
 /* For IE7. Move this to separate file when you notice some problems */
 .row, .clearfix {zoom: 1;}
-img, object, embed {max-width:100%;}
+object, embed {max-width:100%;}
 img {height:auto;}
