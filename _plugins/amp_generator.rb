@@ -31,20 +31,26 @@ module Jekyll
 
   class EmbedPostGenerator < Generator
     safe true
-    priority :low
+      priority :highest
     def generate(site)
       site.posts.each do |post|
         if post.data["layout"] == 'article'
             post.data["layout"] = "articleamp"
             post.render(site.layouts, site.site_payload)
             post.write(site.dest, "index.amp.html")
-            post.content = replace(post.content)
-            post.data["layout"] = 'article'
+            post.data["layout"] = "article"
+        end
+        if post.data["layout"] == 'article'
+            post.data["layout"] = "articleamp"
+            post.render(site.layouts, site.site_payload)
+            post.write(site.dest, "index.amp.html")
+            post.data["layout"] = "article"
         end
       end
     end
     
     def replace(content)
+        content.gsub(/\!\[(.+)\]\((.+)\)/, '{% responsive_image path: \2 alt: \1  %}')
         content.gsub!(/ü/, '&uuml;')
         content.gsub!(/Ü/, '&Uuml;')
         content.gsub!(/ö/, '&ouml;')
