@@ -16,15 +16,15 @@ And it turns out to be a pretty great story. As it progresses you decide its pat
 
 Throughout the game you’re given decisions to make, and every decision has consequences. I’ve played through it twice now, and have had some very different experiences - some better than others! However, there’s a pretty good balance to the game in that I never once felt after a decision gone awry that I had to restart a previous load game - and even if you’re tempted, I would advise against it just to see where the journey take you. 
 
-![The Banner Saga Dialog](/images/banner-dialog.png)
+![The Banner Saga Dialog](images/banner-dialog.png)
 
 In that way its very much like the adventure books from my youth, where you had to make decisions at the end of paragraphs that would lead you to a different page in the book - I loved those as child so as soon as I made the connection here I was immediately comfortable with letting the game take me down those paths.
 
-![The Banner Saga’s beautifully illustrated backdrops](/images/banner-travel.png)
+![The Banner Saga’s beautifully illustrated backdrops](images/banner-travel.png)
 
 The game itself is made up of great turn based combat, dialog scenes, travelling, and location maps. In particular the travelling and location maps are exquisitely drawn. They really give you a great sense of the game world, and pull you in further into the story. Everything is beautifully illustrated, like the various combat areas, and even the in game map. 
 
-![The Banner Saga’s map](/images/banner-map.png)
+![The Banner Saga’s map](images/banner-map.png)
 
 It took me some time to get used to the turn based combat in the game, having not played many (any?) turn based combat games in the past. I would aimlessly attack characters, and waste willpower (an important resource in combat) on stupid attacks. But once I did get used to it I loved it. You can think of it like a pretty exciting take on chess, or if you’re used to turn based combat you should take to it very quickly. 
 

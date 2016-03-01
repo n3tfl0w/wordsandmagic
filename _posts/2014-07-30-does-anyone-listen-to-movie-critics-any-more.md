@@ -95,13 +95,13 @@ Here are 2013's big money makers at the box office from [Box Office Mojo's Top 2
 
 Interestingly, Gravity is the only movie to be in both the Rotten Tomatoes list and the money list from Box Office Mojo. The wide release list from Metacritic isn't much better with only three movies making it into both it and the money list.
 
-![Gravity](/images/gravity_film.jpg)
+![Gravity](images/gravity_film.jpg)
 
 So it would appear that what critics thought of a movie had very little impact in how well big movies did at the box office. As long as a movie didn't get absolutely slated, movie goers tended to go to the big releases without fail.
 
 Except in the case of comedies where _even if they did get slated_ everyone just went along anyway. Number 19 and 20 in the money list, Grown Ups 2 and Identity Thief, each taking in a whopping 135 million plus, have some of the lowest critic scores I've ever seen on Rotten Tomatoes. Though it is worth noting that the user score in both cases is significantly higher.
 
-![Identity Thief](/images/identitythief.jpg)
+![Identity Thief](images/identitythief.jpg)
 
 So where does that leave us? Do critics have any impact on how well a movie does in the cinema? Well... no. The critics favourites (from either list) didn't seem to make a huge impact at the box office. Even when they don't particularly like certain movies, those movies can still do ridiculously well.
 

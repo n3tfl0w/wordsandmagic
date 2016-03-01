@@ -12,7 +12,7 @@ Only God Forgives is the latest film to hit the cinemas from the acclaimed direc
 
 **N:** Fans of Drive, know this, Only God Forgives is nothing like the previous collaboration between Winding Refn and Ryan Gosling. Nothing. So now that is out of the way we can get on to why this film, for me anyway, was a crushing disappointment.
 
-![Gosling as Julien; Picture from Wild Bunch](http://www.wordsandmagic.com/wp-content/uploads/b8ecbc9f-5e39-471a-9a9a-758a144cfccb.jpg)
+![Gosling as Julien; Picture from Wild Bunch](wp-content/uploads/b8ecbc9f-5e39-471a-9a9a-758a144cfccb.jpg)
 
 **D:** A crushing disappointment? I wasn't going to say it, but I've got to agree. That’s maybe my fault though, because I went in with Drive still fresh on my mind. I didn't expect the same characters or anything but I think I wanted a more fleshed out story - I found it very hard to work out the meaning behind it.
 
@@ -30,7 +30,7 @@ Only God Forgives is the latest film to hit the cinemas from the acclaimed direc
 
 **N:** Did she? I can’t remember but I can go on - Why does the cop have a sword? Why is that allowed? How can a cop keep torturing people? What is he representing? Is this telling us that if you are a bad person and go to Thailand, you will be brutally murdered by a cop with the strangest set of morals I have ever seen in anything? I’m not sure that I should have this many questions.
 
-![Vithaya Pansringarm as Lt Chang from Wild Bunch](http://www.wordsandmagic.com/wp-content/uploads/fa310a5e-7e09-411d-8150-8161d84a36eb.jpeg)
+![Vithaya Pansringarm as Lt Chang from Wild Bunch](wp-content/uploads/fa310a5e-7e09-411d-8150-8161d84a36eb.jpeg)
 
 **D:** I guess you have to suspend a little reality... What about thinking about it as just a over-styled short story? An insight into a 3 day period in the characters lives. We deliberately don't know anything about what went on before, Chang's story etc., so have to make our own back story for each of the characters.
 
@@ -44,7 +44,7 @@ Only God Forgives is the latest film to hit the cinemas from the acclaimed direc
 
 **N:** I agree but I don’t think that this will be a problem. Just look at the blockbusters that come out over the summer months.
 
-![Refn and Gosling on set - from Wild Bunch](http://www.wordsandmagic.com/wp-content/uploads/bf9e7935-8522-482b-ab87-3efb91ad6048.jpg)
+![Refn and Gosling on set - from Wild Bunch](wp-content/uploads/bf9e7935-8522-482b-ab87-3efb91ad6048.jpg)
 
 **D:** Where does Refn go from here? Because, commercially, it looks like this movie will be a disaster. It would be a shame for studios to avoid him because he is capable of amazing movies.
 

@@ -24,8 +24,6 @@ And no matter what you want to do, someone will invariably have it figured out a
 
 And these videos are big, big deals. Some of them have viewer numbers up in the millions. Yes, millions. [Yogscast Sjin](https://www.youtube.com/user/YogscastSjin) for instance, has an ongoing series called ["Let's Build Erebor"](https://www.youtube.com/playlist?list=PLtZHIFR5osfAOcXDYeRyckj0ixlW_NHUl). The series has 23 episodes, with each averaging over a quarter of a million views per episode(some are way over half a million). But even [smaller Let's Build videos](https://www.youtube.com/watch?v=-2bDMMPoaos) still garner viewers in the thousands.
 
-![Sjin builds Erebor in Minecraft](/images/Erebor2.png "Sjin builds Erebor in Minecraft")
-
 People - adults and children, are bending the environment and the game to their will in their pursuits. And it's a beautiful thing.
 
 Minecraft has developed an amazing environment for children to learn and to build and do what they want. It's like the lego of our youth but virtual and almost limitless. These children are picking up the game and doing great things with it. Almost every day on twitter I see someone extol the virtues of the game because a niece, nephew, son, or daughter has been able to learn how the environment works and do cool things with it.

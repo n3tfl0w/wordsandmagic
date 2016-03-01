@@ -19,7 +19,7 @@ While I was there, I was working for a construction company as a labourer. I had
 
 ### Baseball and the Blue Jays
 
-![The SkyDome by User:Legalides on Wikimedia Commons](http://wordsandmagic.com/wp-content/uploads/576px-Skydome_seen_from_CN_tower.jpg)
+![The SkyDome by User:Legalides on Wikimedia Commons](wp-content/uploads/576px-Skydome_seen_from_CN_tower.jpg)
 With all this free time I had in the evenings I managed to fall in love with Baseball down in the SkyDome (or the Rogers Centre as its known now). The Blue Jays kept me entertained when my other friends were working in bars or extras on movies and TV shows. The SkyDome was the perfect place to learn to love baseball. It's indoors when the weather turns - outdoors when its nice out. $9 tickets up in the nosebleeds. Easy to get there via public transport too. I loved spending time there. 
 
 ### Living in The Danforth

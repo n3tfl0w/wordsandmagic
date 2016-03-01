@@ -10,6 +10,6 @@ class ResponsiveImageify < Jekyll::Converter
     end
 
   def convert(content)
-    content.gsub(/\!\[(.+)\]\((.+)\)/, '{% responsive_image path: \2 alt: \1  %}')
+    content.gsub(/\!\[(.+)\]\((images.+)\)/, '{% responsive_image path: \2 alt: \1  %}')
   end
 end

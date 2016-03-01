@@ -10,25 +10,25 @@ I’ve said it before, there are some games that stick with you for a long time.
 
 I loved Black Flag, but that’s a post for another day. One of the best things about this game is how it looks, and that’s in no small part due to Rapahel Lacoste, who is Ubisoft's Brand Art Director on the Assassin’s Creed Franchise[^1]. 
 
-![Ship in the mangrove by Rapahel Lacoste](/images/aciv_mangrove_by_raphael_lacoste-d7e2wug.jpg)
+![Ship in the mangrove by Rapahel Lacoste](images/aciv_mangrove_by_raphael_lacoste-d7e2wug.jpg)
 
-![Arrival in St Lucia by Rapahel Lacoste](/images/ACIV_-_Black_Flag_-_Arrival_in_St_Lucia_by_Raphael-Lacoste.jpg)
+![Arrival in St Lucia by Rapahel Lacoste](images/ACIV-BlackFlag-ArrivalinStLuciabyRaphael-Lacoste.jpg)
 
 Its art direction like that, that really sets the game up to look so good. I immediately fell in love with it. So I had to look up the rest of his work. And I wasn’t disappointed at all - some absolutely amazing work - truly beautiful art.
 
 In particular I love his futuristic cityscapes. 
 
-![Business Plaza by Rapahel Lacoste](/images/Business_Plaza_gardens_filter2.jpg)
+![Business Plaza by Rapahel Lacoste](images/Business_Plaza_gardens_filter2.jpg)
 
-![Smoking on the Rooftop by Rapahel Lacoste](/images/citySF08_largeII.jpg)
+![Smoking on the Rooftop by Rapahel Lacoste](images/citySF08_largeII.jpg)
 
 And his work crosses into all my favourite genres: sci-fi, fantasy, and even ruin porn.
 
-![Migration by Rapahel Lacoste](/images/Migration.jpg)
+![Migration by Rapahel Lacoste](images/Migration.jpg)
 
-![artwork by Rapahel Lacoste](/images/Gnomon_raphael_Lacoste_print.jpg)
+![artwork by Rapahel Lacoste](images/Gnomon_raphael_Lacoste_print.jpg)
 
-![Nuclear Plant by Raphael Lacoste](/images/Nuclear_Plant_by_Raphael_Lacoste.jpg)
+![Nuclear Plant by Raphael Lacoste](images/Nuclear_Plant_by_Raphael_Lacoste.jpg)
 
 You can find more of Raphael’s work - 
 
