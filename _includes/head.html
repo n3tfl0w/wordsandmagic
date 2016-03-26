@@ -5,7 +5,40 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="viewport" content="width=device-width">
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "blogposting",
+        "headline": "{{ page.title }}",
+        "mainEntityOfPage":{
+          "@type":"WebPage",
+          "@id":"{{ page.url | prepend: site.baseurl | prepend: site.url }}index.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "{{ page.image | prepend: site.baseurl | prepend: site.url }}",
+          "height": "480",
+          "width":"640"
+        },
+        "datePublished": "{{ page.date | date: '%F' }}",
+        "dateModified": "{{ page.date | date: '%F' }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ page.author }}"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Words and Magic",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{site.url}}/words-and-magic-black-3-small.png",
+            "width": "150",
+            "height": "150"
+          }
+        },
+        "description": "{{ page.description }}"
+      }
+    </script>
     <meta name="google-site-verification" content="c9Vsv1n0SDWohmclsWzyxhXHPe8NCTcVS5zubR-CQYU" />
 
     <link rel="stylesheet" href="{{ "/css/normalize.min.css" | prepend: site.baseurl }}">
@@ -17,17 +50,18 @@
     <script async src="{{ "/scripts/modernizr-2.6.2-respond-1.1.0.min.js" | prepend: site.baseurl }}"></script>
     <script defer src="{{ "/scripts/cookiechoices.js" | prepend: site.baseurl }}"></script>
     <script defer src="{{ "/scripts/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
-    {% if page.layout == 'default' %}
-    <link rel="amphtml" href="index.amp.html">
+    {% if page.layout == 'article' %}
+    <link rel="amphtml" href="amp/index.html">
     {% else %}
-    
     {% endif %}
     <link rel="author" href="https://plus.google.com/u/0/115146120079739811289"/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:description" content="{{ page.description }}" />
     <meta property="og:site_name" content="Words and Magic" />
+    <meta property="article:published_time" content="{{ page.date | date: '%F' }}" />
+    <meta property="article:author" content="{{ page.author }}" />
     {% if page.image %}
         {% if page.image contains 'wordsandmagic' %}
         <meta name="og:image" content="{{ page.image }}">

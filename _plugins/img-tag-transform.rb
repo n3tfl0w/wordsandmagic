@@ -1,15 +1,8 @@
-class ResponsiveImageify < Jekyll::Converter
-    priority :normal
-
-  def matches(ext)
-    ext.downcase == ".md"
-  end
-    
-  def output_ext(ext)
-      ".html"
-    end
-
-  def convert(content)
-    content.gsub(/\!\[(.+)\]\((images.+)\)/, '{% responsive_image path: \2 alt: \1  %}')
+Jekyll::Hooks.register :posts, :pre_render do |post, payload|
+  docExt = post.extname.tr('.', '')
+  # only process if we deal with a markdown file
+  if payload['site']['markdown_ext'].include? docExt
+      newContent = post.content.gsub(/\!\[(.+)\]\((images.+|wp-content.+)\)/, '{% responsive_image path: \2 alt: \1  %}')
+    post.content = newContent
   end
 end
