@@ -11,11 +11,11 @@
         "headline": "{{ page.title }}",
         "mainEntityOfPage":{
           "@type":"WebPage",
-          "@id":"{{ page.url | prepend: site.baseurl | prepend: site.url }}index.amp.html"
+          "@id":"{{ page.url | prepend: site.baseurl | prepend: site.url }}index.html"
         },
         "image": {
           "@type": "ImageObject",
-          "url": "{{ page.image | prepend: site.baseurl | prepend: site.url }}",
+          "url": "{{site.baseurl | prepend: site.url }}/{{ page.imagea }}",
           "height": "480",
           "width":"640"
         },
@@ -59,7 +59,7 @@
         {% if page.image contains 'wordsandmagic' %}
         <meta name="og:image" content="{{ page.image }}">
         {% else %}
-        <meta name="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
+        <meta name="og:image" content="{{site.baseurl | prepend: site.url }}/{{ page.imagea }}">
         {% endif %}
     {% endif %}
     <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
