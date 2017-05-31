@@ -1,6 +1,6 @@
 ---
 title: The Grand Canyon
-description: I visited the Grand Canyon
+description: I managed to visit the Grand Canyon on a trip to Las Vegas
 feat_pic: http://www.wordsandmagic.com/wp-content/uploads/11111111112.png
 pic_attr: Dan O'Neill
 author: Dan O’Neill

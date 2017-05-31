@@ -14,7 +14,7 @@ Fences released a couple of songs from their new album Lesser Oceans (to be rele
 
 Another song that Fences released from their upcoming album is The Lake, and it's a great song. Up on YouTube now:
 
-<iframe width="1280" height="720" src="//www.youtube.com/embed/aZRH8z5sjAg" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/aZRH8z5sjAg" frameborder="0" allowfullscreen></iframe>
 
 Rolling Stone magazine [spoke to Macklemore on the Fences collaboration here](http://www.rollingstone.com/music/videos/macklemore-faces-the-critics-in-fences-arrows-video-20140811) and Billboard managed to speak to both of them [here about their recent collaborations and Arrows in particular](http://www.billboard.com/articles/news/6190814/fences-macklemore-and-ryan-lewis-arrows), and they're both worth reading, especially to see how they relate to each other:
 

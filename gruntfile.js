@@ -1,37 +1,8 @@
-module.exports = function( grunt ) {
+module.exports = function (grunt) {
     // load time-grunt and all grunt plugins found in the package.json
-    require( 'time-grunt' )( grunt );
-    require( 'load-grunt-tasks' )( grunt );
+    require('time-grunt')(grunt);
+    require('load-grunt-tasks')(grunt);
     grunt.initConfig({
-        responsive_images_extender: {
-            target: {
-                options: {
-                    separator: '@',
-                    ignore: ['.logo','.avatar'],
-                    baseDir: '_site',
-                    srcAttribute: 'smallest',
-                    sizes: [{
-                        selector: '',
-                        sizeList: [{
-                            cond: 'max-width: 30em',
-                            size: '100vw'
-                        },{
-                            cond: 'max-width: 50em',
-                            size: '50vw'
-                        },{
-                            cond: 'default',
-                            size: 'calc(33vw - 100px)'
-                        }]
-                    }]
-                },
-                files: [{
-                    expand: true,
-                    src: ['**/index.html'],
-                    cwd: '_site/',
-                    dest: '_site/'
-                }]
-            }
-        },
         csslint : {
             test : {
                 options : {
@@ -67,18 +38,61 @@ module.exports = function( grunt ) {
                       '_config.yml',
                       'index.html',
                       '404.html' ],
-            tasks : [ 'cssmin','shell:jekyllBuild'],
+            tasks : [ 'cssmin', 'shell:jekyllBuild'],
         },
+        
+        imagemin: {                         // Another target
+            dist: {
+                options: {                       // Target options
+                    optimizationLevel: 7
+                },
+                files: [{
+                    expand: true,                  // Enable dynamic expansion
+                    cwd: 'pre-images/',                   // Src matches are relative to this path
+                    src: '*.{png,jpg,gif}',   // Actual patterns to match
+                    dest: 'images/'                  // Destination path prefix
+                }]
+            }
+        },
+        'ftp-deploy': {
+            build: {
+                auth: {
+                    host: 'wordsandmagic.com',
+                    port: 21,
+                    authKey: 'key1'
+                },
+                src: '_site/',
+                dest: '/public_html/wordsandmagic.com/',
+                exclusions: ['pre-images/**/*'],
+                forceVerbose: true
+            }
+        },
+        'ftp-sync': {
+            build: {
+                auth: {
+                    host: 'wordsandmagic.com',
+                    port: 21,
+                    authKey: 'key1'
+                },
+                src: '_site/',
+                dest: '/public_html/wordsandmagic.com/',
+                exclusions: ['pre-images/**/*'],
+                forceVerbose: true
+            }
+        }
     });
 
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     grunt.loadNpmTasks('grunt-contrib-csslint');
     grunt.loadNpmTasks('grunt-shell');
-    grunt.loadNpmTasks('grunt-responsive-images-extender');
+    grunt.loadNpmTasks('grunt-newer');
+    grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-ftp-deploy');
+    grunt.loadNpmTasks('grunt-ftp-sync');
 
     // register custom grunt tasks
-    grunt.registerTask( 'lintcheck', [ 'cssmin','csslint', 'shell:jekyllBuild' ] )
-    grunt.registerTask( 'dev', [ 'cssmin','shell:jekyllBuild' ] )
-    grunt.registerTask( 'deploy', [ 'cssmin', 'shell:jekyllDeploy'] )
+    grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
+    grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
+    grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
 };

@@ -1,6 +1,6 @@
 ---
 title: James Kingston crane climb
-description: James Kingston 
+description: This POV video of one of James Kingstons climbs is a great watch
 author: Dan O'Neill
 Date: 2014/02/14
 feat_vid: //www.youtube.com/embed/2Fs0hkdJzk8

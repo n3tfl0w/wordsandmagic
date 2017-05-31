@@ -1,6 +1,6 @@
 ---
 title: WORLD ORDER - Welcome to TOKYO
-description: A beautiful music video set in Tokyo!
+description: A beautiful music video set in Tokyo, Japan. This band do great music videos!
 author: Dan O'Neill
 Date: 2014/02/14
 feat_vid: //www.youtube.com/embed/IDAlZ7PDMDU

@@ -1,6 +1,6 @@
 ---
 title: Eben Moglen - Freedom in The Cloud
-description: Eben Moglen - Freedom in The Cloud
+description: A really excellent video from Eben Moglen on privacy and technology
 author: Dan O'Neill
 Date: 2014/02/14
 feat_vid: //www.youtube.com/embed/QOEMv0S8AcA
@@ -14,4 +14,4 @@ I've written about Eben Moglen and how much I love his talks before but I was re
 
 I have a favourite talk from Eben. It's called "Innovation under Austerity" and was delivered as the Freedom to Connect Conference in 2012. So after the talk above, check this one out. 
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/G2VHf5vpBy8" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/G2VHf5vpBy8" frameborder="0" allowfullscreen></iframe>

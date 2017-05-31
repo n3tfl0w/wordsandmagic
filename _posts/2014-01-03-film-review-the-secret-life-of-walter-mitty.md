@@ -1,6 +1,6 @@
 ---
 title: Film Review - The Secret Life of Walter Mitty
-description: This description will go in the meta description tag
+description: Here we are, only three days into 2014, and I’m making rash claims - It will take something special to knock the The Secret Life of Walter Mitty off my movie of the year list.
 feat_pic: http://www.wordsandmagic.com/wp-content/uploads/WalterMitty.jpg
 pic_attr: ‘Ben Stiller as Walter Mitty’
 author: Dan O’Neill
@@ -24,7 +24,7 @@ Throughout the movie, all of these beautiful shots are perfectly complemented by
 
 Dirty Paws from Of Monsters and Men is a particularly good song and fits the ambience of the movie really well. It was an immediate purchase afterwards.
 
-<iframe width="960" height="540" src="//www.youtube.com/embed/imgImaBleNw" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/imgImaBleNw" frameborder="0" allowfullscreen></iframe>
 
 
 Make no mistake, the soundtrack helps to make this movie as good as it is. 

@@ -24,7 +24,7 @@ Great video, but wow do I wish it had a better soundtrack.
 
 The next video is from [Jos Stiglingh](https://www.youtube.com/channel/UCBzrTEellANJndKutPrHwjw) and its a beautiful trip into the middle of a fireworks show.
 
-<iframe width="960" height="540" src="//www.youtube.com/embed/a9KZ3jgbbmI" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/a9KZ3jgbbmI" frameborder="0" allowfullscreen></iframe>
 
 Again, not an angle you'll usually see that kind of event from.
 
@@ -32,7 +32,7 @@ Again, not an angle you'll usually see that kind of event from.
 
 The next video hasn't got the same number of views as the above but it is definitely one of the most beautiful showcases of drone footage. It's from Ireland, and its mostly from a county called Wicklow. The county's nickname is the garden of Ireland, and a place I know well from quite a bit of hiking over the years.
 
-<iframe width="960" height="540" src="//www.youtube.com/embed/DJIHA9ZnAOY" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/DJIHA9ZnAOY" frameborder="0" allowfullscreen></iframe>
 
 ### Hong Kong democracy protests
 
@@ -40,4 +40,4 @@ The next video hasn't got the same number of views as the above but it is defini
 
 > Thousands of demonstrators turned out in downtown Hong Kong on September 29 to support a protest over Beijing’s decision to reject calls for open nominations for the election of Hong Kong’s chief executive in 2017. Demonstrators on Monday called for the resignation of Hong Kong’s top official CY Leung after he branded Occupy Central, one of the organizing groups, as “unlawful”.
 
-<iframe width="960" height="540" src="//www.youtube.com/embed/Q919bQOThvM" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/Q919bQOThvM" frameborder="0" allowfullscreen></iframe>

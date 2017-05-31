@@ -1,6 +1,6 @@
 ---
 title: Great Video from AWOLNATION
-description: Awolnation’s video for I Am is a winner
+description: Awolnation’s video for I Am is a great video for this really good song
 author: Dan O’Neill
 Date: 2015/07/10
 feat_vid: //www.youtube.com/embed/QLZkf6HvO2Q

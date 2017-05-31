@@ -4,4 +4,4 @@
     {% endfor %}
 {% endcapture %}
 
-<img src="/{{ path }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w" width="{{ original.width }}" height="{{ original.height }}" layout="responsive">
+<div><img src="/{{ path }}" srcset="{{ srcset | strip_newlines }} /{{ original.path }} {{ original.width }}w" width="{{ original.width }}" height="{{ original.height }}" layout="responsive"></div>

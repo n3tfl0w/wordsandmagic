@@ -14,7 +14,7 @@ Interest in the game really exploded when Sony made it one of the centrepiece ga
 
 Do yourself a favour - Do it justice by hitting full screen and upping the resolution and volume. It's well worth it.
 
-<iframe width="740" height="416" src="//www.youtube.com/embed/MZO40WBNA60" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://www.youtube.com/embed/MZO40WBNA60" frameborder="0" allowfullscreen></iframe>
 
 So since that amazing video I've been trying to find out as much as I can about it - especially about the art direction that the game is going in. A lot of the coverage around the game has focused on the amazing procedural stuff that the game is doing. And there has been a lot of coverage, from a really good [interview with Danny O'Dwyer from Gamespot](http://www.youtube.com/watch?v=YwX0g4ZkMH0) to a [beautiful feature length piece in Polygon](http://www.polygon.com/a/e3-2014/no-mans-sky).
 

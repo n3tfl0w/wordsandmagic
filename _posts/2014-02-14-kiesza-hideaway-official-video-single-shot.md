@@ -1,6 +1,6 @@
 ---
 title: Kiesza - Hideaway (Official Video)
-description: A very cool single shot video.
+description: A very cool single shot music video from Kiesza song Hideaway
 author: Dan O'Neill
 Date: 2014/02/14
 feat_vid: //www.youtube.com/embed/ESXgJ9-H-2U

@@ -1,6 +1,6 @@
 ---
 title: Bulmers advert 2015
-description: Not A Moment Too Soon.
+description: Not A Moment Too Soon. Bulmer's new ad featuring a really great song from Recondite
 author: Dan O’Neill
 Date: 2015/05/21
 feat_vid: //www.youtube.com/embed/K0qwGPpimic

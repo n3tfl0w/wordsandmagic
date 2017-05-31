@@ -1,6 +1,6 @@
 ---
 title: Book Review - World War Z
-description: Quick review of World War Z by Max Brooks
+description: Quick book review of World War Z by Max Brooks, which I read after seeing the movie
 feat_pic: /images/WWZ.jpg
 pic_attr: By Steven Guzzardi - https://www.flickr.com/photos/guzzphoto/
 author: Dan O’Neill

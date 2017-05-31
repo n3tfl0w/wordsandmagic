@@ -1,6 +1,6 @@
 ---
 title: Book Review - One on One
-description: Quick review of John Feinstein's One on One.
+description: Quick book review of John Feinstein's One on One, which I really enjoyed.
 feat_pic: /images/OoO.jpg
 pic_attr: Me
 author: Dan O’Neill

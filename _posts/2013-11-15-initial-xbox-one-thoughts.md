@@ -1,6 +1,6 @@
 ---
 title: Initial Xbox One thoughts
-description: This description will go in the meta description tag
+description: So I managed to get an invite to the Xbox One tour event in Dublin’s Ambassador theatre
 feat_pic: http://www.wordsandmagic.com/wp-content/uploads/construction_1p_1920x1080.jpg
 pic_attr: ‘Battlefield 4 on the Xbox One’
 author: Dan O’Neill

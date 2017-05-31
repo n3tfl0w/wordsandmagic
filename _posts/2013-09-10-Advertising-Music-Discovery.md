@@ -12,11 +12,11 @@ I've been fascinated by the link between advertising and music recently. It seem
 
 The most recent example I have of this is the newest ad for [Very.co.uk](http://Very.co.uk). It's a pretty great ad and you can view it here from YouTube:
 
-<iframe src="//www.youtube.com/embed/G2JsW8R5VTo" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/G2JsW8R5VTo" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
 
 It uses a song by Purity Ring called "Fineshrine". What an amazing tune. I had to track down the song so the first port of call was YouTube - which usually works. Result. And judging by the comments on the video, a large number of other people had the [Very.co.uk](http://Very.co.uk) advertisement to thank for pointing them at the song!
 
-<iframe src="//www.youtube.com/embed/Xqw4wo8vdY8" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/Xqw4wo8vdY8" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
 
 My other most notable example is from the Red Bull Media House - The Welcome to the World of Redbull ad **Update** Video has been removed from Red Bulls youtube channel for some reason.
 

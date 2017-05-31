@@ -28,10 +28,10 @@ The remnants of humanity seem to be separated, but mostly held together to defea
 
 There's a couple of videos on show on the website. One is particularly good - Destiny PlayStation 4 Official Announcement. I've added it here. Two things really stand out - There is some gorgeous gameplay shots in there, and the Bungie office floor looks awesome.
 
-<iframe src="http://www.youtube.com/embed/6kJkiwDeWqQ" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/6kJkiwDeWqQ" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
 
 Then you have the character development video from GDC this year. It shows some of the work to get from concept art to final in-game product.
 
-<iframe src="http://www.youtube.com/embed/bOcioqwN2Hc" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/bOcioqwN2Hc" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
 
 I'm really excited about this game. Unfortunately they don't have a release date set, but that could be a blessing in disguise - no target to have to rush for.

@@ -1,6 +1,6 @@
 ---
 title: Did IKEA just make the best advert for beds ever?
-description: Beautifully shot IKEA ad
+description: Beautifully shot IKEA ad for their bedding range featuring a great VO by Prunella Scales
 author: Dan O'Neill
 Date: 2014/03/10
 feat_vid: //www.youtube.com/embed/iZW04_BdyG8

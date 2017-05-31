@@ -1,6 +1,6 @@
 ---
 title: Jetman Dubai - Young Feathers 4K
-description: A beautiful video for SkyDive Dubai.
+description: A beautiful video for SkyDive Dubai. Absolutely in love with this video - great tune too.
 author: Dan O'Neill
 Date: 2015/05/17
 feat_vid: //www.youtube.com/embed/Czy0pXRRZcs

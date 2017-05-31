@@ -12,6 +12,6 @@ I was browsing twitter recently and a tweet from Chris Hadfield caught my attent
 
 After a little digging, it turns out Reid Gower put together a series of these videos together, called The Sagan Series, as a kind of educational series — an ode to NASA, and space flight in general — that could reach a new generation, years after Carl Sagan's death in 1996. The first video alone has just under 2.4 million views on YouTube. Here it is: 
 
-<iframe src="//www.youtube.com/embed/oY59wZdCDo0" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/oY59wZdCDo0" height="540" width="960" allowfullscreen="" frameborder="0"></iframe>
 
 It reminds me a lot of [melodysheep](http://www.youtube.com/user/melodysheep)'s [Symphony of Science series](http://www.youtube.com/playlist?list=PLFC4EE4355ADEBDB1) - another great series of videos which uses Carl Sagan, and many others, to extol the virtues of space exploration and science in general. You can view the whole series here on [The Sagan Series](http://saganseries.com/). The whole set is worth a watch if you have around 30 mins - They're really inspiring.

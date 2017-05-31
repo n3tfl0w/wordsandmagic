@@ -164,13 +164,13 @@ h1 {
    ========================================================================== */
 
 body{
-	text-align: left;
-	margin: 0;
-	padding: 0;
-	border: 0;	
-	color: #333;
-	font-weight: normal;
-background: #FAEAD0 /*#fcfaf2;*/
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: 0;	
+    color: #333;
+    font-weight: normal;
+    background: #FAEAD0 /*#fcfaf2;*/
 }
 .heading{
     height: 75px;
@@ -225,12 +225,21 @@ background: #FAEAD0 /*#fcfaf2;*/
     width: 300px;
 }
 
+h1{
+    font: bold 36px/42px 'Playfair Display', serif;
+    text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
+    text-align:left;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
 h2{
     font: bold 36px/42px 'Playfair Display', serif;
     text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
     text-align:left;
     margin-top:30px;
 }
+
 .picblock .h2holder{
     text-align: center;
     position: absolute;
@@ -271,6 +280,7 @@ article p:first-of-type{
     font-style: normal;
     font-weight: normal;
     margin-bottom: 25px;
+    text-align: justify;
 }
 p{
     font: 18px Georgia, "times new roman", times, serif;
@@ -329,13 +339,12 @@ blockquote p:last-of-type{
 .videoblock > .fluid-width-video-wrapper{
     margin:0;
 }
-p > img:only-of-type{
-        box-sizing: border-box;
-        margin: 0;
-        /*max-width: 100%;*/
-        width: 100%;
-        clear: both;
-    }
+article img{
+    box-sizing:border-box;
+    margin: 0 -20% 25px;
+    width: 140%;
+    clear:both
+}
 .post iframe.twitter-tweet-rendered{
     float: none;
     margin: 10px auto !important;
@@ -343,7 +352,7 @@ p > img:only-of-type{
 .post iframe{
     float: left;
     margin: 0 -30px 25px -30px;
-    max-width: 800px;
+    max-width: 930px;
     width: 120%;
     clear: both;
 }
@@ -469,7 +478,7 @@ a:hover{
     text-align: center;
 }
 .post, #article{
-    margin-top: 250px;
+    margin-top: 150px;
     margin-bottom: -250px;
 }
 .videoy{
@@ -478,9 +487,6 @@ a:hover{
 }
 .videoy h2{
     text-align: left
-}
-#article article p, .videoy p{
-    text-align: justify;
 }
 
 #article .tweet-it-wrapper{
@@ -670,6 +676,14 @@ text-align: center;}
 
 @media (min-width: 480px) {
 
+    h1{
+        font: bold 68px/76px 'Playfair Display', serif;
+        text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
+        text-align:center;
+        margin-top:30px;
+        margin-bottom: 150px;
+    }
+    
     h2{
         font: bold 68px/76px 'Playfair Display', serif;
         text-shadow: 0 2px 2px rgba(255, 255, 255, 1);
@@ -770,12 +784,12 @@ text-align: center;}
         font-style: italic;
         margin-bottom: 0px;
     }
-    p > img:only-of-type{
+    article img{
         box-sizing: border-box;
         float: left;
-        margin: 0 -30% 25px;
+        margin: 0 -20% 25px;
         /*max-width: 800px;*/
-        width: 160%;
+        width: 140%;
         clear: both;
         border: 2px solid;
     }
@@ -786,6 +800,7 @@ text-align: center;}
         font-style: normal;
         font-weight: 500;
         margin-bottom: 25px;
+        text-align: justify;
     }
     p{
         font: 24px Georgia, "times new roman", serif;
@@ -834,7 +849,7 @@ text-align: center;}
         position: fixed;
         bottom: 15%;
         right: 5px;
-        width: 300px;
+        width: 230px;
         padding: 15px;
         border: 1px solid #eee;
         background: white;

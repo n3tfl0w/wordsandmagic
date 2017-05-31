@@ -55,18 +55,22 @@
     {% else %}
     {% endif %}
     <link rel="author" href="https://plus.google.com/u/0/115146120079739811289"/>
+    <meta property="fb:pages" content="1632791133400935" />
+    <meta property="op:markup_version" content="v1.0">
+    <meta property="fb:article_style" content="wamstyle">
     <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
     <meta property="og:site_name" content="Words and Magic" />
     <meta property="article:published_time" content="{{ page.date | date: '%F' }}" />
-    <meta property="article:author" content="{{ page.author }}" />
+    <meta property="article:author" content="{{ page.authorfb }}" />
     {% if page.image %}
         {% if page.image contains 'wordsandmagic' %}
-        <meta name="og:image" content="{{ page.image }}">
+        <meta property="og:image" content="{{ page.image }}">
         {% else %}
-        <meta name="og:image" content="{{site.baseurl | prepend: site.url }}/{{ page.imagea }}">
+        <meta property="og:image" content="{{site.baseurl | prepend: site.url }}/{{ page.imagea }}">
         {% endif %}
     {% endif %}
     <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
