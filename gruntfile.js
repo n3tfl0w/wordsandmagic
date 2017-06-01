@@ -94,5 +94,6 @@ module.exports = function (grunt) {
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
+    grunt.registerTask('devpi', ['cssmin', 'shell:jekyllBuild'])
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
 };
