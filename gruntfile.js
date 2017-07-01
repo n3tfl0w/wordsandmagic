@@ -3,15 +3,7 @@ module.exports = function (grunt) {
     require('time-grunt')(grunt);
     require('load-grunt-tasks')(grunt);
     grunt.initConfig({
-        csslint : {
-            test : {
-                options : {
-                    import : 2
-                },
-                src : [ 'css/main.css' ]
-            }
-        },
-
+        
         cssmin : {
             dist : {
                 src : 'css/main.css',
@@ -27,19 +19,6 @@ module.exports = function (grunt) {
                 command : 'jekyll build'
             }
         },
-
-        watch : {
-            options: {
-                livereload: true
-            },
-            files : [ '_layouts/*.html',
-                      '_posts/*.md',
-                      'css/main.css',
-                      '_config.yml',
-                      'index.html',
-                      '404.html' ],
-            tasks : [ 'cssmin', 'shell:jekyllBuild'],
-        },
         
         imagemin: {                         // Another target
             dist: {
@@ -52,19 +31,6 @@ module.exports = function (grunt) {
                     src: '*.{png,jpg,gif}',   // Actual patterns to match
                     dest: 'images/'                  // Destination path prefix
                 }]
-            }
-        },
-        'ftp-deploy': {
-            build: {
-                auth: {
-                    host: 'wordsandmagic.com',
-                    port: 21,
-                    authKey: 'key1'
-                },
-                src: '_site/',
-                dest: '/public_html/wordsandmagic.com/',
-                exclusions: ['pre-images/**/*'],
-                forceVerbose: true
             }
         },
         'ftp-sync': {
@@ -93,11 +59,6 @@ module.exports = function (grunt) {
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
-<<<<<<< Updated upstream
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
-    grunt.registerTask('devpi', ['cssmin', 'shell:jekyllBuild']);
-=======
-    grunt.registerTask('dev', [ 'cssmin', 'shell:jekyllBuild' ]);
->>>>>>> Stashed changes
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
 };
