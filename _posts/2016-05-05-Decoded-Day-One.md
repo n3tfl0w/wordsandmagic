@@ -8,7 +8,7 @@ layout: article
 
 The DECODED Open Source Conference is a two-day, four-track conference with a focus on Azure, IoT, and Machine Learning.
 
-![Picture of the stage at Decoded Conference Dublin](images/Decoded.jpg)
+![Picture of the stage at Decoded Conference Dublin](/images/Decoded.jpg)
 
 First off - the venue. Decoded was held in the O’Reilly building in UCD. This was a strange decision given that there were 4 tracks but only 3 separate rooms in this building. This forced one of the tracks over to another building. I did not bother to go over there even though one or two of the sessions looked really interesting like “How we built an inaccessible accessibility tool (and how you can do better!)” by Sara Spalding. UCD is an awkward enough place to get to for me anyway, from the the north side of the city.
 

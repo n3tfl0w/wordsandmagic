@@ -26,7 +26,7 @@ Dead Rising 3 was on a demo loop but it was fun to play if a little repetitive. 
 
 Forza was another game that looked amazing, and was stuck to a one lap demo. There was a couple of car classes to choose from though so still a bit of choice. The game made the -best- most obvious use of the rumbly triggers of all the games I played that night. It was a nice touch. The game itself though has always struck me as lifeless and clinical. One example - going in to a corner too fast results in a loss of grip but on the screen it just looks like your sliding on ice. This might be a more realistic representation of real life but too sterile looking for me.
 
-![Battlefield 4 from Xbox.com](wp-content/uploads/E3_MP_02-960x540.jpg)
+![Battlefield 4 from Xbox.com](/wp-content/uploads/E3_MP_02-960x540.jpg)
 
 The best game on show though from the night was Battlefield 4.  It was a 8 vs 8 game in a capture the flag match. Gameplay was a lot of fun,  graphics stood out, but it was the sound that really won me over. I can’t really explain it but it was one of the most immersive gaming experiences I’ve ever had. The controller was responsive, and although I’m sure the rumbly triggers did something, it all felt part of the game. A really good experience. 
 

@@ -16,7 +16,7 @@ In previous real world roaming games I've always felt I was wandering around in 
 
 Granted FC3 takes place on a huge and sparsely populated island group, and it maybe gets around the problem by having less *stuff* (for want of a better word). It also has almost nothing you can't go into and I never felt like it was empty. It has tonnes of ruins, caves, mines, old buildings, bridges and villages. And everything is interesting. The map has hundreds of small huts, each with something interesting - It all adds up to the overall story of the islands. 
 
-![screenshot_29tcm1955456](wp-content/uploads/screenshot_29tcm1955456-960x540.jpg)
+![screenshot_29tcm1955456](/wp-content/uploads/screenshot_29tcm1955456-960x540.jpg)
 
 The islands are teeming with wildlife. On a couple of occasions I've been stalking an enemy outpost, only for a tiger or a bear to wander right into the area and cause everything to go crazy. You just don't get that level of unpredictability in any other game that I've played. Or, I'm just driving cross-country and a group of deer will run right across the road. 
 
@@ -34,7 +34,7 @@ Most of the games mechanics are the normal FPS fare. There are some very interes
 
 I hate dream sequences, and I have since I was first introduced to them in Max Payne. I didn't understand the point to any of them in this game. 
 
-![screenshot_28tcm1955285](wp-content/uploads/screenshot_28tcm1955285-960x540.jpg)
+![screenshot_28tcm1955285](/wp-content/uploads/screenshot_28tcm1955285-960x540.jpg)
 
 The game also suffers from that most annoying of game mechanic - the interactive cut scene. Could it be any more annoying than to have to hit a prescribed button that appears on-screen, within a certain time frame? Actually it could because if you mess it up you have to watch the whole scene from the start. The last scene was particularly annoying as I had to replay it over and over, but to be honest all of them were pretty grating. 
 

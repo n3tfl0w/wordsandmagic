@@ -14,9 +14,9 @@ layout: article
 
 The concept art in particular is blowing me away. I've always been a massive post-apocalyptic fan in any medium - games, movies, or books. So the art coming out from the team there in Bungie is really ticking all my boxes. 
 
-![The traveler sits low over the City.](wp-content/uploads/travelers_vale_desktop-960x600.jpg)
+![The traveler sits low over the City.](/wp-content/uploads/travelers_vale_desktop-960x600.jpg)
 
-![The wilderness beyond the walls of the City](wp-content/uploads/ghost_town_desktop-960x600.jpg)
+![The wilderness beyond the walls of the City](/wp-content/uploads/ghost_town_desktop-960x600.jpg)
 
 ### Story
 

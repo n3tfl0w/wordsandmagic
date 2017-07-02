@@ -11,7 +11,7 @@ The first leg of my honeymoon took us to Orlando - primarily to go to Universal 
 
 After a quick flight over to Manchester from Dublin, we took the million mile walk between terminals to board a Virgin Atlantic flight to Orlando. This was my first Virgin flight and it was superb. From now on, if I can help it I'll always fly transatlantic with them - great service, food, entertainment systems, everything. 
 
-![Our fine transatlantic jet. Pretty Woman by Virgin Atlantic](images/virgin-atlantic-pretty-woman.jpg)
+![Our fine transatlantic jet. Pretty Woman by Virgin Atlantic](/images/virgin-atlantic-pretty-woman.jpg)
 
 We landed in Orlando and jumped in a cab to our hotel - the Parc Soleil - A Hilton Grand Vacations hotel. We had been travelling for 11 hours and were directed after a too brief checkin to vacation services for our "free gift". They told us it was $100 and free breakfast for attending something in the sales centre the next morning. I wondered how bad it could be and signed up. I should have known better when they put a $120 hold on my credit card. We headed to the room and slept. 
 
@@ -23,6 +23,6 @@ We asked to leave and he said he would get someone to check us out and then anot
 
 So that soured the hotel for me - The room was amazing and everything - huge king size suite, with great views. The location is great too. The pool was nice and really big if maybe a little too shallow. The staff did a really poor job of telling us anything about the hotel. I had to search for the gym and only discovered an activity centre the day before we left. We were given free DVD rental but only discovered where to go when we were checking out. They had cheap shuttles to all the big parks so it was ok. Although it never recovered in my book from that awful introduction. But hey, nice pool. 
 
-![Hilton's nice pool](images/hilton-orlando-pool.jpg)
+![Hilton's nice pool](/images/hilton-orlando-pool.jpg)
 
 I'll update this post with links to various other honeymoon posts when I have a chance. 

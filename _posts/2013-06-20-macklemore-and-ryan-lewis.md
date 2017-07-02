@@ -12,7 +12,7 @@ I'm going to start with an admission - Thrift Shop was the first Macklemore & Ry
 
 Macklemore comes from an area that I normally wouldn't associate with hip hop - Seattle, but that's probably more my ignorance than the actual truth. He's seriously enthusiastic about his music and that comes across in every video - you can't help but be infected by that enthusiasm, especially when the music is this good. Lyrically, I'm not sure there's any artist out there that comes even close to him.
 
-![Macklemore...](wp-content/uploads/macklemore.jpg)
+![Macklemore...](/wp-content/uploads/macklemore.jpg)
 
 He's proof that you should "write what you know". There's a depth to even the most popular of his songs, a depth that's rare to popular music, because by definition it has to appeal to the common denominator. He's believes what he's rapping about - and it shows. He's lived what he raps about.
 
@@ -22,7 +22,7 @@ Macklemore's lyrics are twinned with the gorgeous beats of Ryan Lewis. The best 
 
 Of all of their songs - "Same Love" and "My oh My" are the two that I can listen to on repeat for hours. On some late nights with friends that is exactly what we have ended up doing. Many nights have been spent after a late night back in a friend's apartment blaring out these tunes.
 
-![Ryan Lewis and Macklemore from macklemore.com](wp-content/uploads/macklemore_RyanLewis.jpg)
+![Ryan Lewis and Macklemore from macklemore.com](/wp-content/uploads/macklemore_RyanLewis.jpg)
 
 "My oh My" is Macklemore's tribute to Dave Niehaus, the voice of the Seattle Mariners baseball team. The song details how Macklemore grew up listening to Niehaus calling the games on the radio. I love baseball so this song definitely ticks all my emotional boxes. Even more so for some Americans as when it was first played by a radio DJ, he apparently received calls afterwards from Mariners fans who had pulled over on the highway in tears from the lyrical work and memory of Niehaus. Macklemore performed the song for Opening Day 2011 at Safeco Field during the teams Tribute to the late broadcaster. That video can be found [here](http://www.youtube.com/watch?v=CBo3tDPOwjg). I can easily imagine that many Mariners fans will have similar memories of growing up listening to him.
 

@@ -24,11 +24,11 @@ So it was in one of those interviews with Irish developer and founder of Hello G
 
 It's not hard to imagine that scene but if you need help you can do an image search for ["Science fiction book covers"](https://www.google.co.uk/search?q=science+fiction+book+covers&client=firefox-a&hs=1X7&rls=org.mozilla:en-GB:official&channel=fflb&tbm=isch&tbo=u&source=univ&sa=X&ei=UHipU5LIHaue7Ab5r4DoBQ&ved=0CCEQsAQ&biw=1600&bih=1085&dpr=1). And if you take a look at the art work below it definitely makes you think of the glorious book covers that always made the likes of Clarke, Asimov and Hamilton stand out so well.
 
-![NewEridu](images/NewEridu.png)
+![NewEridu](/images/NewEridu.png)
 
-![Creature](images/Creature.png)
+![Creature](/images/Creature.png)
 
-![AlpineFly](images/AlpineFly.png)
+![AlpineFly](/images/AlpineFly.png)
 
 No Man's Sky will stand out for other reasons, but the art direction is what really stands out for me. The games design is remarkably different to anything that's out there at the minute. I still love the grey and brown tones of most science fiction games/films out there but this just really sends me back to those early days having just discovered the great science fiction writers. Hours in the library staring at those amazing covers.  
 
