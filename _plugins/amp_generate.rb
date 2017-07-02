@@ -5,7 +5,7 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = 'amp.html'
+      @name = 'index.html'
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'articleamp.html')
       self.content               = post.content
@@ -31,7 +31,7 @@ module Jekyll
     def generate(site)
       dir = site.config['ampdir'] || 'amp'
       site.posts.docs.each do |post|
-        next if post.data['layout'] == 'article'
+        if post.data['layout'] == 'article'
         site.pages << AmpPost.new(site, site.source, File.join(dir, post.id), post)
       end
     end
