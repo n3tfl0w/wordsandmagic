@@ -32,7 +32,7 @@ module Jekyll
       # dir = site.config['ampdir'] || 'amp'
       site.posts.docs.each do |post|
         next if post.data['layout'] == 'article'
-        site.pages << AmpPost.new(site, site.source, File.join(dir, post.id), post)
+        site.pages << AmpPost.new(site, site.source, post.id, post)
       end
     end
   end
