@@ -1,12 +1,5 @@
 <head>
-    {% capture amp_first_image %}
-      {% assign hero_image = page.content | match_regex: '<amp-img .*?src="([^"]+)"' %}
-      {% if hero_image == nil %}
-        {% assign hero_image = "/words-and-magic-black-3-small.png" | prepend: site_base %}
-      {% endif %}
-      {{ hero_image }}
-    {% endcapture %}
-          {{ page.content }}
+    {% include first_amp_image.html %}
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
