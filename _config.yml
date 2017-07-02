@@ -8,7 +8,7 @@ url: "http://wordsandmagic.com"
 exclude: [package.json,gruntfile.js,node_modules]
 safe: false
 gems:
-  [jekyll-auto-image,jekyll-responsive-image]
+  [jekyll-responsive-image]
 
 # Build settings
 markdown: kramdown
