@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'amp/','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'amp/',''    | prepend: site.baseurl | prepend: site.url }}">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <script type="application/ld+json">
       {
@@ -16,7 +16,7 @@
         },
         "image": {
           "@type": "ImageObject",
-          "url": "{{site.baseurl | prepend: site.url }}/{{ post_first_image | strip }}",
+          "url": "{{site.baseurl | prepend: site.url }}/{{ amp_first_image | strip }}",
           "height": "480",
           "width":"640"
         },
@@ -61,7 +61,7 @@
     <meta property="og:site_name" content="Words and Magic" />
     <meta property="article:published_time" content="{{ page.date | date: '%F' }}" />
     <meta property="article:author" content="{{ page.authorfb }}" />
-    <meta property="og:image" content="{{site.baseurl | prepend: site.url }}/{{ post_first_image | strip }}">
+    <meta property="og:image" content="{{site.baseurl | prepend: site.url }}/{{ amp_first_image | strip }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@dan_oneill"/>
     <meta name="twitter:domain" content="Words and Magic"/>
