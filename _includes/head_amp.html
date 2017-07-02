@@ -16,7 +16,7 @@
         },
         "image": {
           "@type": "ImageObject",
-          "url": "{{site.baseurl | prepend: site.url }}/{{ page.imagea }}",
+          "url": "{{site.baseurl | prepend: site.url }}/{{ post_first_image | strip }}",
           "height": "480",
           "width":"640"
         },
@@ -54,14 +54,14 @@
     <meta property="op:markup_version" content="v1.0">
     <meta property="fb:article_style" content="wamstyle">
     <meta property="og:locale" content="en_US" />
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | replace:'amp/','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
     <meta property="og:site_name" content="Words and Magic" />
     <meta property="article:published_time" content="{{ page.date | date: '%F' }}" />
     <meta property="article:author" content="{{ page.authorfb }}" />
-    <meta property="og:image" content="{{ post_first_image | strip }}">
+    <meta property="og:image" content="{{site.baseurl | prepend: site.url }}/{{ post_first_image | strip }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@dan_oneill"/>
     <meta name="twitter:domain" content="Words and Magic"/>
