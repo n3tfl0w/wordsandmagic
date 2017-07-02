@@ -1,8 +1,7 @@
-{% assign images = post.content | split:"<img " %}
-{% for image in images %}
-  {% if image contains 'src=' %}
-    {% assign imageMarkup = image | split:">" | first %}
-      {{ imageMarkup }}
-    {% break %}
+{% capture post_first_image %}
+  {% assign hero_image = page.content | match_regex: '<img .*?src="([^"]+)"' %}
+  {% if hero_image == nil %}
+    {% assign hero_image = "/words-and-magic-black-3-small.png" | prepend: site_base %}
   {% endif %}
-{% endfor %}
+  {{ hero_image }}
+{% endcapture %}
