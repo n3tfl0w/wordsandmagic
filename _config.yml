@@ -5,10 +5,10 @@ description: "I focus on storytelling, be that in art, graphic design, music, vi
 baseurl: ""
 image: "http://wordsandmagic.com/words-and-magic-black-3-small.png"
 url: "http://wordsandmagic.com"
-exclude: [package.json,gruntfile.js,node_modules,amp.html]
+exclude: [package.json,gruntfile.js,node_modules]
 safe: false
 gems:
-  [jekyll-auto-image,jekyll-responsive-image]
+  [jekyll-auto-image,jekyll-responsive-image,amp-jekyll]
 
 # Build settings
 markdown: kramdown
