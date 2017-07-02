@@ -1,18 +1,34 @@
 ---
-layout: amplayout
+layout: articleamp
 ---
 
-<div class="container12">
-    <div id="article" class="column10 prefix1 post">
-        <article>
-            <header>
-                <h1 itemprop="headline">{{ page.title }}</h1>
-            </header>
-            <div itemprop="articleBody">
-            
-            {{ content | markdownify | amp_images }}
+<!doctype html>
+<html amp lang="en">
+
+  {% include head_amp.html %}
+
+    <body>
+        <!-- Google Tag Manager -->
+        <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-NF5JX5X&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+
+    {% include header_amp.html %}
+        
+        <div class="container12">
+            <div id="article" class="column10 prefix1 post">
+                <article>
+                    <header>
+                        <h1 itemprop="headline">{{ page.title }}</h1>
+                    </header>
+                    <div itemprop="articleBody">
+
+                    {{ content | markdownify | amp_images }}
+                    </div>
+                </article>
+                <span class="hitmeup">Got something to add, or something to complain about? Contact me on Twitter: <a href="http://www.twitter.com/dan_oneill">@dan_oneill</a> or email me <a href="mailto:dan.oneill@live.ie">dan.oneill@live.ie</a></span>
             </div>
-        </article>
-        <span class="hitmeup">Got something to add, or something to complain about? Contact me on Twitter: <a href="http://www.twitter.com/dan_oneill">@dan_oneill</a> or email me <a href="mailto:dan.oneill@live.ie">dan.oneill@live.ie</a></span>
-    </div>
-</div>
+        </div>
+        
+        {% include footer_amp.html %}
+
+    </body>
+</html>
