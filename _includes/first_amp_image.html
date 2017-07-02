@@ -1,7 +1,7 @@
 {% capture amp_first_image %}
-  {% assign hero_image = page.content | match_regex: '<img .*?src="([^"]+)"' %}
+  {% assign hero_image = page.content | match_regex: '.*?src="([^"]+)"' %}
   {% if hero_image == nil %}
-    {% assign hero_image = "/words-and-magic-black-3-small.pngfrank" | prepend: site_base %}
+    {% assign hero_image = "/words-and-magic-black-3-small.png" | prepend: site_base %}
   {% endif %}
   {{ hero_image }}
 {% endcapture %}
