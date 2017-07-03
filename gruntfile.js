@@ -46,17 +46,19 @@ module.exports = function (grunt) {
                 forceVerbose: true
             }
         },
-        'ftpush': {
-          build: {
-            auth: {
+        ftp_push: {
+          wam: {
+            options: {
               host: 'wordsandmagic.com',
-              port: 21,
-              authKey: 'key1'
+              dest: '/public_html/wordsandmagic.com/',
+              username: ${ftp-user},
+              password: ${ftp-pass},
+              incrementalUpdates: true,
+              debug: true // Show JSFTP Debugging information
             },
-            src: '_site/',
-            dest: '/public_html/wordsandmagic.com/',
-            exclusions: ['pre-images/**/*'],
-            simple: true
+            files: [
+              {expand: true, cwd: './', src: ['_site/**']}
+            ]
           }
         }
     });
@@ -66,12 +68,12 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-newer');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-ftp-sync');
-    grunt.loadNpmTasks('grunt-ftpush');
+    grunt.loadNpmTasks('grunt-ftp-push');
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
     grunt.registerTask('dev-buddy', [ 'cssmin', 'newer:imagemin' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
-    grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftpush']);
+    grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftp_push:wam']);
 };
