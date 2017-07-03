@@ -45,6 +45,19 @@ module.exports = function (grunt) {
                 exclusions: ['pre-images/**/*'],
                 forceVerbose: true
             }
+        },
+        ftpush: {
+          build: {
+            auth: {
+              host: 'wordsandmagic.com',
+              port: 21,
+              authKey: 'key1'
+            },
+            src: '_site/',
+            dest: '/public_html/wordsandmagic.com/',
+            exclusions: ['pre-images/**/*'],
+            simple: true
+          }
         }
     });
 
@@ -59,4 +72,5 @@ module.exports = function (grunt) {
     grunt.registerTask('dev-buddy', [ 'cssmin', 'newer:imagemin' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
+    grunt.registerTask('deploy-buddy', ['ftpush']);
 };
