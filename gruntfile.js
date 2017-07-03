@@ -73,5 +73,5 @@ module.exports = function (grunt) {
     grunt.registerTask('dev-buddy', [ 'cssmin', 'newer:imagemin' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
-    grunt.registerTask('deploy-buddy', ['ftpush']);
+    grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftpush']);
 };
