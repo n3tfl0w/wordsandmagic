@@ -18,4 +18,4 @@ So I searched it out and watched it a few more times - I love it. It was made by
 
 **Update 2: It seems like it was withdrawn after the Ukraine plane crash. It has since been reuploaded to youtube by ikea so I've updated the embed again.**
 
-**Update 3: Gone again, at least the from the official channel. I've embedded it again from another youtube channel. **
+**Update 3: Gone again, at least the from the official channel. I've embedded it again from another youtube channel.**
