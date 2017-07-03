@@ -46,7 +46,7 @@ module.exports = function (grunt) {
                 forceVerbose: true
             }
         },
-        ftpush: {
+        'ftpush': {
           build: {
             auth: {
               host: 'wordsandmagic.com',
