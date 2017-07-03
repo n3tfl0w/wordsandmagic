@@ -66,6 +66,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-newer');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-ftp-sync');
+    grunt.loadNpmTasks('grunt-ftpush');
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
