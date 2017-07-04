@@ -51,8 +51,7 @@ module.exports = function (grunt) {
             options: {
               host: 'wordsandmagic.com',
               dest: '/public_html/wordsandmagic.com/',
-              username: '${ftp-user}',
-              password: '${ftp-pass}',
+              authKey: "wam",
               incrementalUpdates: true,
               debug: true // Show JSFTP Debugging information
             },
