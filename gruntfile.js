@@ -43,7 +43,8 @@ module.exports = function (grunt) {
                 src: '_site/',
                 dest: '/public_html/wordsandmagic.com/',
                 exclusions: ['pre-images/**/*'],
-                forceVerbose: true
+                forceVerbose: true,
+                keepAlive: 90000
             }
         },
         ftp_push: {
