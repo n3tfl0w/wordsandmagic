@@ -16,7 +16,7 @@ This modern adaptation of James Thurber's famous short story from 1939, Walter M
 
 Without a doubt this movie is gorgeously shot. Everywhere looks beautiful, from New York to the Himalayan mountains. Without giving too much away, there are seascapes to admire, sunsets to fall in love with, and mountains to stare at in wonderment. I did all three, and would again, given the chance. 
 
-![Ben Stiller as Walter Mitty](/wp-content/uploads/waltermitty3-960x539.jpg)
+![Ben Stiller as Walter Mitty](/wp-content/uploads/waltermitty3.jpg)
 
 I sat and stared at the screen and marvelled even with the pretty poor seats. By the end of it I was absolutely sold on 4K and huge TV’s - forget 1080p on a 50” TV - I want 4k on an 81 inch behemoth. I want to sit in front of my TV and get that cinema experience again.
 
@@ -33,7 +33,7 @@ Although not always a favourite with everyone, I’ve always been a Ben Stiller 
 
 He’s carried on that form - and its unlike any Ben Stiller directed movie I’ve seen before. And take from that what you will. He also plays a character I’ve never seen him play before - and it suits him. Stiller’s Walter Mitty is likeable, interesting character and I really wanted to see him succeed. There’s a well chosen cast around him too, from Kirsten Wiig to Adam Scott - though that beard is hard to look at. 
 
-![Ben Stiller as Walter Mitty](/wp-content/uploads/WalterMitty2-960x539.jpg)
+![Ben Stiller as Walter Mitty](/wp-content/uploads/WalterMitty2.jpg)
 
 I loved The Secret Life of Walter Mitty - it was a stunningly beautiful, moving story of dreaming big and then following through.
 
