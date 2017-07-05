@@ -5,9 +5,6 @@ author: Dan O’Neill
 layout: aside
 ---
 
-## The Secret to a Happier Life
-***
-
 I hate people who complain. Well, not quite, but I hate people who keep complaining about the same thing over and over, or those who complain about things that are really minor. If you're on twitter/Facebook, you follow at least one person who does this almost all of the time.
 
 Step 1 - Unfollow that person on twitter. Unfriend on Facebook or if you can't do that - mute them. Seriously, right now. If all you can remember someone for on social media is their complaining and moaning then it isn't worth it, if for no other reason than for your own mental health.
