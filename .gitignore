@@ -1,3 +1,5 @@
 _site
 images/resized
 .ftppass
+
+.DS_Store
