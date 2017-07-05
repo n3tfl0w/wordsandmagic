@@ -2,7 +2,6 @@
 title: Bungie's new game - Destiny
 description: Details of Destiny are slowly making their way out into the world and it looks immense.
 feat_pic: http://www.wordsandmagic.com/wp-content/uploads/destiny_desktop.jpg
-pic_attr: From Bungie.net
 author: Dan O’Neill
 Date: 2013/05/14
 layout: article
