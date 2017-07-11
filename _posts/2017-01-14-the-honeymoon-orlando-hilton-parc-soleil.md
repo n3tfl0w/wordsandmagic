@@ -1,6 +1,6 @@
 ---
 title: The Honeymoon - Orlando's Parc Soleil, The Hard Sell
-description: While not the worst hotel in the - the sales centre is a place I will never go again
+description: While not the worst hotel in the World, or even Orlando - the sales centre is a place I will never go again
 author: Dan O’Neill
 author: dan.oneill262
 date: 2017/01/14
