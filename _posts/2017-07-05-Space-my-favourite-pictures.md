@@ -30,7 +30,7 @@ The horsehead nebula is probably the most recognisable of all the nebula picture
 
 This photo has been my phones background for quite a while at this stage. And that's rare - I normally change it almost daily. I'm absolutely amazed there isn't a tether or something keeping Bruce McCandless II (I think that's who this picture is of) attached to the shuttle. Credit: [NASA](http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-001156.html) [Public Domain](https://commons.wikimedia.org/w/index.php?curid=48209)
 
-![U.S. astronaut Bruce McCandless uses a manned maneuvering unit](/images/nasa-63029.jpg)
+![U.S. astronaut Bruce McCandless uses a manned maneuvering unit](/images/nasa-63032.jpg)
 
 Bonus image! Although there's nothing really special about the next photo apart from the fact that I'm in it! Kind of. Taken by  **Thomas Pesquet** and shared by Expedition 50 Commander Shane Kimbrough on St Patrick's Day in 2017. Credits: [ESA/NASA](https://www.flickr.com/photos/thom_astro/31754739604/)
 
