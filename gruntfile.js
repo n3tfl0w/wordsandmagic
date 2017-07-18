@@ -92,7 +92,7 @@ module.exports = function (grunt) {
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
-    grunt.registerTask('dev-buddy', [ 'cssmin', 'image_resize' ]);
+    grunt.registerTask('dev-buddy', [ 'cssmin', 'responsive_images' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
     grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftp_push:wam']);
