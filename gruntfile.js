@@ -41,6 +41,8 @@ module.exports = function (grunt) {
                   width: 640,
                 },{
                   width: 1298,
+                  rename: false,
+                  name: 'full',
                 }]
               },
               files: [{
