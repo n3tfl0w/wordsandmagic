@@ -39,7 +39,7 @@ module.exports = function (grunt) {
                     width: 1298,
                     overwrite: true
                 },
-                src: 'images/*',
+                src: ['images/*.JPG','images/*.jpg','images/*.png','images/*.PNG'],
                 dest: 'images/'
             }
         },
