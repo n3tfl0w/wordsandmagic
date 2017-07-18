@@ -33,16 +33,25 @@ module.exports = function (grunt) {
                 }]
             }
         },
-        image_resize: {
-            resize:{
-                options: {
-                    width: 1298,
-                    overwrite: true
-                },
-                src: ['images/*.JPG','images/*.jpg','images/*.png','images/*.PNG'],
+        responsive_images: {
+            myTask: {
+              options: {
+                engine: im,
+                sizes: [{
+                  width: 640,
+                },{
+                  width: 1298,
+                  rename: false
+                }]
+              },
+              files: [{
+                expand: true,
+                src: ['images/*.{jpg,gif,png}'],
+                cwd: 'images/',
                 dest: 'images/'
+              }]
             }
-        },
+          },
         'ftp-sync': {
             build: {
                 auth: {
@@ -79,7 +88,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-ftp-sync');
     grunt.loadNpmTasks('grunt-ftp-push');
-    grunt.loadNpmTasks('grunt-image-resize');
+    grunt.loadNpmTasks('grunt-responsive-images');
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
