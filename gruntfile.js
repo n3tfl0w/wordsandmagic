@@ -33,6 +33,16 @@ module.exports = function (grunt) {
                 }]
             }
         },
+        image_resize: {
+            resize:{
+                options: {
+                    width: 1298,
+                    overwrite: true
+                },
+                src: 'images/*.JPG',
+                dest: 'images/'
+            }
+        },
         'ftp-sync': {
             build: {
                 auth: {
@@ -69,10 +79,11 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-ftp-sync');
     grunt.loadNpmTasks('grunt-ftp-push');
+    grunt.loadNpmTasks('grunt-image-resize');
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
-    grunt.registerTask('dev-buddy', [ 'cssmin', 'newer:imagemin' ]);
+    grunt.registerTask('dev-buddy', [ 'cssmin', 'newer:image_resize' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
     grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftp_push:wam']);
