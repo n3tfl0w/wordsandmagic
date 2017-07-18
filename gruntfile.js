@@ -36,7 +36,7 @@ module.exports = function (grunt) {
         responsive_images: {
             myTask: {
               options: {
-                engine: im,
+                engine: 'im',
                 sizes: [{
                   width: 640,
                 },{
