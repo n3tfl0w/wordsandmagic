@@ -21,32 +21,33 @@ module.exports = function (grunt) {
         },
         responsive_images: {
             myTask: {
-		options: {
-			engine: "im",
-			sizes: [{ name: 'small', width: 320, quality: 85 },{ name: 'medium', width: 640, quality: 85 },{ name: 'large', width: 1298, quality: 85 }]
-		},
-		files: [{
-			expand: true,
-			src: ['**.{jpg,gif,png}'],
-			cwd: 'images/',
-			dest: '_site/images/'
-		}]
+                options: {
+                  customIn: ['-sampling-factor', '4:2:0','-interlace', 'line', '-strip'],
+                  engine: "im",
+                  sizes: [{ name: 'small', width: 320, quality: 85 },{ name: 'medium', width: 640, quality: 85 },{ name: 'large', width: 1298, quality: 85 }]
+                },
+                files: [{
+                  expand: true,
+                  src: ['**.{jpg,gif,png}'],
+                  cwd: 'images/',
+                  dest: '_site/images/'
+                }]
             }
         },
-	responsive_images_extender: {
-	    target: {
-      		options: {
-		    baseDir: '_site',
-		    ignore: ['.icons', '.logo', 'figure img', 'iframe img', '.avatar', '.external']
-		},
-      		files: [{
-        	    expand: true,
-        	    src: ['**/*.{html,htm,php}'],
-		    cwd: '_site/',
-        	    dest: '_site/'
-      		}]
-    	    }
-	},
+        responsive_images_extender: {
+          target: {
+              options: {
+            baseDir: '_site',
+            ignore: ['.icons', '.logo', 'figure img', 'iframe img', '.avatar', '.external']
+            },
+              files: [{
+                  expand: true,
+                  src: ['**/*.{html,htm,php}'],
+            cwd: '_site/',
+                  dest: '_site/'
+              }]
+              }
+        },
         'ftp-sync': {
             build: {
                 auth: {
