@@ -21,20 +21,16 @@ module.exports = function (grunt) {
         },
         responsive_images: {
             myTask: {
-				options: {
-					engine: "im",
-					sizes: [{
-						width: 640
-					},{
-						width: 1298
-					}]
-				},
-				files: [{
-					expand: true,
-					src: ['**.{jpg,gif,png}'],
-					cwd: 'images/',
-					dest: 'images/'
-				}]
+		options: {
+			engine: "im",
+			sizes: [{ name: 'small', width: 320 },{ name: 'medium', width: 640 },{ name: 'large', width: 1298 }]
+		},
+		files: [{
+			expand: true,
+			src: ['**.{jpg,gif,png}'],
+			cwd: 'images/',
+			dest: '_site/images/'
+		}]
             }
         },
         'ftp-sync': {
