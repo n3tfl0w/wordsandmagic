@@ -40,8 +40,7 @@ module.exports = function (grunt) {
 		},
       		files: [{
         	    expand: true,
-        	    src: ['**/*.{html,htm,php}'],
-        	    cwd: '_site/',
+        	    src: ['_site/**/*.{html,htm,php}'],
         	    dest: '_site/'
       		}]
     	    }
