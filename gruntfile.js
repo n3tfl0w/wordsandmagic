@@ -23,7 +23,7 @@ module.exports = function (grunt) {
             myTask: {
 		options: {
 			engine: "im",
-			sizes: [{ name: 'small', width: 320 },{ name: 'medium', width: 640 },{ name: 'large', width: 1298 }]
+			sizes: [{ name: 'small', width: 320, quality: 85 },{ name: 'medium', width: 640, quality: 85 },{ name: 'large', width: 1298, quality: 85 }]
 		},
 		files: [{
 			expand: true,
