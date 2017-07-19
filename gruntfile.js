@@ -36,11 +36,13 @@ module.exports = function (grunt) {
 	responsive_images_extender: {
 	    target: {
       		options: {
+		    baseDir: '_site',
 		    ignore: ['.icons', '.logo', 'figure img']
 		},
       		files: [{
         	    expand: true,
-        	    src: ['_site/**/*.{html,htm,php}'],
+        	    src: ['**/*.{html,htm,php}'],
+		    cwd: '_site/',
         	    dest: '_site/'
       		}]
     	    }
