@@ -10,6 +10,8 @@ layout: article
 
 One of those things I think we all wish we could do - travel to a super remote place and live for even just a couple of days. Eric Dennis and his brother Justin did exactly that. They decided to head up to Gates of the Arctic National Park and Preserve, in Alaska. 
 
+![Gates of the Arctic Mational Park](/wp-content/uploads/GatesofArctic.jpg)
+
 The park is not accessible by road - you have to travel there by foot or by Air Taxi. The [Gates of the Arctic National Park and Preserve](http://en.wikipedia.org/wiki/Gates_of_the_Arctic_National_Park_and_Preserve) looks like an absolutely amazing place. Its enormous too about the same size as Taiwan, a country with 23 million people. 
 
 The brothers were following the Alatna River - essentially white water rafting through the Alaskan wilderness. The documentary is only about 20 minutes long and definitely worth a watch.  
