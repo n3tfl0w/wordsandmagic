@@ -23,6 +23,8 @@ ftp_port: 21                  # default 21
 ftp_username: ${ftp-user}     # default read from stdin
 ftp_password: ${ftp-pass} # default read from stdin
 
+keep_files: ["images"]
+
 responsive_image:
   # [Required]
   # Path to the image template.
