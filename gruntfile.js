@@ -33,6 +33,19 @@ module.exports = function (grunt) {
 		}]
             }
         },
+	responsive_images_extender: {
+	    target: {
+      		options: {
+		    ignore: ['.icons', '.logo', 'figure img']
+		},
+      		files: [{
+        	    expand: true,
+        	    src: ['**/*.{html,htm,php}'],
+        	    cwd: '_site/',
+        	    dest: '_site/'
+      		}]
+    	    }
+	},
         'ftp-sync': {
             build: {
                 auth: {
@@ -70,6 +83,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-ftp-sync');
     grunt.loadNpmTasks('grunt-ftp-push');
     grunt.loadNpmTasks('grunt-responsive-images');
+    grunt.loadNpmTasks('grunt-responsive-images-extender');
 
     // register custom grunt tasks
     grunt.registerTask('lintcheck', [ 'cssmin', 'csslint', 'shell:jekyllBuild' ]);
@@ -77,4 +91,5 @@ module.exports = function (grunt) {
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
     grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftp_push:wam']);
+    grunt.registerTask('imgres-buddy', [ 'cssmin', 'responsive_images_extender']);
 };
