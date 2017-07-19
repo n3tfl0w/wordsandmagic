@@ -19,40 +19,24 @@ module.exports = function (grunt) {
                 command : 'jekyll build'
             }
         },
-        
-        imagemin: {                         // Another target
-            dist: {
-                options: {                       // Target options
-                    optimizationLevel: 7
-                },
-                files: [{
-                    expand: true,                  // Enable dynamic expansion
-                    cwd: 'pre-images/',                   // Src matches are relative to this path
-                    src: '*.{png,jpg,gif}',   // Actual patterns to match
-                    dest: 'images/'                  // Destination path prefix
-                }]
-            }
-        },
         responsive_images: {
             myTask: {
-              options: {
-                engine: 'im',
-                sizes: [{
-                  width: 640,
-                },{
-                  width: 1298,
-                  rename: false,
-                  name: 'full',
-                }]
-              },
-              files: [{
-                expand: true,
-                src: ['**.{jpg,gif,png}'],
-                cwd: 'images/',
-                dest: 'images/'
-              }]
+				options: {
+					engine: "im",
+					sizes: [{
+						width: 640
+					},{
+						width: 1298
+					}]
+				},
+				files: [{
+					expand: true,
+					src: ['**.{jpg,gif,png}'],
+					cwd: 'images/',
+					dest: 'images/'
+				}]
             }
-          },
+        },
         'ftp-sync': {
             build: {
                 auth: {
