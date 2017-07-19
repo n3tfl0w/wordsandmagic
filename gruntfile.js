@@ -37,7 +37,7 @@ module.exports = function (grunt) {
 	    target: {
       		options: {
 		    baseDir: '_site',
-		    ignore: ['.icons', '.logo', 'figure img', 'iframe img', '.avatar', 'external']
+		    ignore: ['.icons', '.logo', 'figure img', 'iframe img', '.avatar', '.external']
 		},
       		files: [{
         	    expand: true,
