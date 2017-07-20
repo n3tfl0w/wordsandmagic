@@ -10,15 +10,15 @@ Instead of doing actual real work yesterday, I procrastinated and decided to tak
 
 ![some of my many page speed problems](/images/pagespeed.jpg)
 
-## Enabling Compression using .htaccess file.
+### Enabling Compression using .htaccess file.
 So I thought I had already done this. I'd been using the h5bp .htaccess file, but I was still getting errors about some of my minified css and my javascript files. Turns out I was using an old version of the file, so updating to the newest version immediately cleared the errors - [Apache Server Configs v2.14.0](https://github.com/h5bp/server-configs-apache).
 
 Obviously if you don't know what you're doing here, you can do some real damage to your website **so use with care**. There is a compression section at line 713 of the [h5bp .htaccess file](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess) if you just want to look at that, as this was the section that fixed my issues.
 
-## Minifying resources
+### Minifying resources
 This is a very simple one - after you run the pagespeed tool, at the bottom of the page it will give you minified versions of your css and javascript files (along with optimised images but more on that soon). Just replace your header css and js links with the new minified versions. I was already serving minified versions of my css but I had missed some of js files I use for embedded video resizing. Keep a backup of your un-minified files as the minified versions are unreadable and all but impossible to modify.
 
-## Eliminate render-blocking JavaScript and CSS in above-the-fold content and Optimse CSS delivery
+### Eliminate render-blocking JavaScript and CSS in above-the-fold content and Optimse CSS delivery
 This one took the most amount of work for me as it took me a while to understand what this point was trying to tell me. Essentially, only 6% of my content that was on the screen when my page loaded could be rendered without making another request for either some script or some CSS file to display the content correctly.
 
 I decided to fix the javascript first. This meant setting my javascript header links to defer loading the file or making the javascript load asynchronously like so:
@@ -73,7 +73,7 @@ The tool then generates your critical path css. You inline this css in your <hea
 </script>
 ```
 
-## Optimize Images
+### Optimize Images
 This one is probably where the biggest gains come from on a page with big images like this page - [Six of the very best space pictures](http://wordsandmagic.com/2017/07/12/Space-my-favourite-pictures/), but where I can probably least pass on any knowledge. There are a few online tools for optimizing images that are useful, and in fact the [Google Pagespeed tool](https://developers.google.com/speed/pagespeed/) will also provide you with optimised versions of your imagery.
 
 However, I use a combination of [Jekyll](https://jekyllrb.com/) and [Grunt](https://gruntjs.com/) to build my website so I wanted something with a bit more automation involved. Luckily I came across this handy grunt plugin - [grunt-responsive-images](https://github.com/andismith/grunt-responsive-images). This plugin creates a set of images for you of a number of sizes using GraphicsMagick or ImageMagick. It allows you to add a number of options on each image like size, name, quality etc. but importantly allows you to set your own custom input options using CustomIn. I was able to use this to set the options I found on [this stackoverflow post](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) so that every image was re-created using these options:
