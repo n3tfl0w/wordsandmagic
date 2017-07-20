@@ -1,5 +1,5 @@
 ---
-title: Quick ways to get increase your pagespeed score
+title: Quick ways to increase your pagespeed score
 description: I went from 4/100 to 97/100 with these small fixes
 author: Dan O’Neill
 date: 2017/07/20
