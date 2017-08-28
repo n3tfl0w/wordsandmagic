@@ -2,7 +2,7 @@
 title: End to End Game Reviews - The Witcher 3
 description: The Witcher 3 is a wild ride, but one well worth following to its natural conclusion. Many Spoilers ahead.
 author: Dan O’Neill
-date: 2017/08/23
+date: 2017/08/28
 layout: article
 ---
 
