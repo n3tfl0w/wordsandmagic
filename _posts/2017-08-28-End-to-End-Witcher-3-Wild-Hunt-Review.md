@@ -49,4 +49,4 @@ I also loved the finality of finishing off the vineyard as my home as an end poi
 ![Geralt's eventual home](/images/The_Witcher_3_Wild_Hunt_Blood_and_Wine_Toussaint_is_famous_for_its_wine_and_vineyards_RGB.png)
 
 ### Conclusion
-So all of this leads me to one point. That this might be the greatest game I've ever played. It might not be the game I've played the most -- I've sunk a lot of hours into all of the various online shooters -- but its definitely the game that's stayed with me the most since I've played it. I was visually enthralled, I loved the voice acting, and I still think about the quests and stories to this day. 
+So all of this leads me to one point. That this might be the greatest game I've ever played. It might not be the game I've played the most -- I've sunk a lot of hours into all of the various online shooters -- but its definitely the game that's stayed with me the most since I've played it. I was visually enthralled, I loved the voice acting, and I still think about the quests and stories to this day. A really great game.
