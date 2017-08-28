@@ -38,6 +38,7 @@ module.exports = function (grunt) {
           target: {
               options: {
             baseDir: '_site',
+            srcAttribute: 'smallest',
             ignore: ['.icons', '.logo', 'figure img', 'iframe img', '.avatar', '.external']
             },
               files: [{
