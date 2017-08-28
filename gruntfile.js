@@ -24,7 +24,7 @@ module.exports = function (grunt) {
                 options: {
                   customIn: ['-sampling-factor', '4:2:0','-interlace', 'line', '-strip'],
                   engine: "im",
-                  sizes: [{ name: 'small', width: 320, quality: 85 },{ name: 'medium', width: 640, quality: 85 },{ name: 'large', width: 1298, quality: 85 }]
+                  sizes: [{ name: 'small', width: 320, quality: 85 },{ name: 'medium', width: 640, quality: 85 },{ name: 'large', width: 1298, quality: 85 },{ name: 'orig', width: 1398, rename: false, quality: 85 }]
                 },
                 files: [{
                   expand: true,
