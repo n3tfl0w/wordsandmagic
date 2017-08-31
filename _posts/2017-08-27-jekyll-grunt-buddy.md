@@ -2,7 +2,7 @@
 title: Jekyll, Grunt, and Buddy
 description: I needed a way to reliably deploy my site that wasn't tethered to one machine.
 author: Dan O’Neill
-date: 2017/07/28
+date: 2017/08/27
 layout: article
 ---
 
