@@ -80,3 +80,5 @@ Then I could specifically request the older version of ImageMagick
 ```
 apk add --no-cache imagemagick=6.9.6.8-r1
 ```
+
+Then my build proceeded as before. Problem (temporarily I hope) solved.
