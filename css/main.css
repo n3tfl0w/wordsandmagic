@@ -386,7 +386,7 @@ tbody tr:nth-child(odd) {
 .meta{
     margin: 10px 0;
     color: #c3322f;
-    font: 20px/22px 'Roboto', sans-serif;
+    font: 20px/22px serif;
     text-align:right;
     display:block;
 }
@@ -395,7 +395,7 @@ tbody tr:nth-child(odd) {
     margin-bottom: 15px;
 }
 .footer-container p,.footer-container ul{
-    font: 18px 'Spectral', Georgia, serif;
+    font: 18px 'Merriweather', Georgia, serif;
     line-height: 1.3em;
     margin-bottom: 25px;
 }
@@ -506,13 +506,13 @@ a:hover{
     transition: all .2s linear;
 }
 #article .tweet-it-wrapper .tweet-it-desc{
-        font: 20px 'Spectral', Georgia, serif;
+        font: 20px 'Merriweather', Georgia, serif;
         line-height: 1.2em;
         margin-top: 10px;
         margin-bottom: 10px;
     }
     #article .tweet-it-wrapper .tweet-it-title{
-        font: bold 24px 'Roboto', sans-serif;
+        font: bold 24px serif;
         line-height: 1.2em;  
     }
     #article .tweet-it-wrapper .tweet-it-button{
@@ -561,7 +561,7 @@ text-align: center;}
 
 .who{
     display:block;
-    font: 24px 'Spectral', Georgia, serif;
+    font: 24px 'Merriweather', Georgia, serif;
     line-height: 1.6em;
     margin: 125px 0px;
     text-align:center;
@@ -569,7 +569,7 @@ text-align: center;}
     clear:both;
 }
 .hitmeup{
-    font: 24px 'Spectral', Georgia, serif;
+    font: 24px 'Merriweather', Georgia, serif;
     line-height: 1.6em;
     margin-bottom: 25px;
     text-align:left;
@@ -586,7 +586,7 @@ text-align: center;}
   border-radius: 3px;
 }
     .footnotes ol{
-        font: 18px 'Spectral', Georgia, serif;
+        font: 18px 'Merriweather', Georgia, serif;
         line-height: 1.6em;
         margin-bottom: 25px;
         margin-left: 35px;
@@ -767,7 +767,7 @@ text-align: center;}
         width: 28%;
     }
     .footnotes ol{
-        font: 18px 'Spectral', Georgia, serif;
+        font: 18px 'Merriweather', Georgia, serif;
         line-height: 1.6em;
         margin-bottom: 25px;
         margin-left: 35px;
@@ -798,7 +798,7 @@ text-align: center;}
     }
     
     article p:first-of-type{
-        font: 32px 'Spectral', Georgia, serif;
+        font: 32px 'Merriweather', Georgia, serif;
         line-height: 1.6em;
         font-style: normal;
         font-weight: 500;
@@ -806,8 +806,9 @@ text-align: center;}
         text-align: justify;
     }
     p{
-        font: 24px 'Spectral', Georgia, serif;
+        font: 24px 'Merriweather', Georgia, serif;
         line-height: 1.6em;
+		font-weight: 300;
     }
     blockquote p:first-of-type{
         font-size: 20px;
@@ -819,17 +820,18 @@ text-align: center;}
         margin-bottom: 0px;
     }
     .footer-container p,.footer-container ul{
-        font: 18px 'Spectral', Georgia, serif;
+        font: 18px 'Merriweather', Georgia, serif;
         line-height: 1.3em;
         margin-bottom: 25px;
     }
     #article ul{
-        font: 22px 'Spectral', Georgia, serif;
+        font: 22px 'Merriweather', Georgia, serif;
         line-height: 1.6em;
         margin-bottom: 25px;
         margin-left: 35px;
         text-align:left;
         clear:both;
+		font-weight: 300;
     }
     #article ul li{
         margin-bottom: 5px;
@@ -886,7 +888,7 @@ text-align: center;}
         animation-delay: 20s;
     }
     #article .tweet-it-wrapper .tweet-it-desc{
-        font: 20px 'Spectral', Georgia, serif;
+        font: 20px 'Merriweather', Georgia, serif;
         line-height: 1.2em;
         margin-top: 10px;
         margin-bottom: 10px;
