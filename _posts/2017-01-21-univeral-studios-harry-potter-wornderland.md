@@ -19,11 +19,11 @@ Even the queues are done well in the Harry Potter section of the park - you get 
 
 The link between the two parks from Universal Studios to Universal Island's of Adventure has been transformed into a Harry Potter themed train, the Hogwart's Express and it is well worth doing the trip in both directions - the design of the interior is perfect, and I really enjoyed the journey. The window is set up with a screen and it makes it look like you're actually on the journey to Hogwarts. Even the internal windows have some nice little technology which makes it look like there are people in the corridor on the train - again its really well done. 
 
-![Horwarts Express](/images/hogwarts-express.jpg)
+![Horwarts Express](/images/hogwartsexpresstrain.jpg)
 
 Universal Island's of Adventure has a recreated Hogwarts castle and Hogsmeade village. The attention to detail here is superb and you easily lose yourself in the wizrding universe. The restaurant here is in the recreated Three Broomsticks, slightly different food but still quite nice. 
 
-![A pretty cool recreation of Hogwarts](/images/hogwarts.jpg)
+![A pretty cool recreation of Hogwarts](/images/hogwartscastle.jpg)
 
 The actual Harry Potter rollercoaster, the Dragon coaster is well worth the trip too. On our second run we were stuck on the rollercoaster for quite a while after another rider's prosthetic leg flew off and had to be retrieved before we were allowed to ride again. We actually joked earlier in the day about the warning signs on the various rides about having to secure prosthetic legs! It actually must happen a lot for that warning to be necessary. 
 
