@@ -271,8 +271,11 @@ h2{
     text-shadow: 1px 1px 1px #3b302f;
 }
 h3{
-    font: 900 32px/48px 'Roboto', sans-serif;
-    text-align:left;
+    font: 700 32px/48px 'Playfair Display', serif;
+    text-align: left;
+    color: #ff4500;
+    border-bottom: 1px solid;
+    margin-bottom: 15px;
 }
 article p:first-of-type{
     font: 24px Georgia, "times new roman", times, serif;
@@ -889,7 +892,7 @@ text-align: center;}
         margin-bottom: 10px;
     }
     #article .tweet-it-wrapper .tweet-it-title{
-        font: bold 24px 'Roboto', sans-serif;
+        font: bold 24px serif;
         line-height: 1.2em;  
     }
     #article .tweet-it-wrapper .tweet-it-button{
