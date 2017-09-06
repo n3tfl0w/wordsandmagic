@@ -23,7 +23,7 @@ The link between the two parks from Universal Studios to Universal Island's of A
 
 Universal Island's of Adventure has a recreated Hogwarts castle and Hogsmeade village. The attention to detail here is superb and you easily lose yourself in the wizrding universe. The restaurant here is in the recreated Three Broomsticks, slightly different food but still quite nice. 
 
-![Hogwarts](/images/hogwarts.jpg)
+![A pretty cool recreation of Hogwarts](/images/hogwarts.jpg)
 
 The actual Harry Potter rollercoaster, the Dragon coaster is well worth the trip too. On our second run we were stuck on the rollercoaster for quite a while after another rider's prosthetic leg flew off and had to be retrieved before we were allowed to ride again. We actually joked earlier in the day about the warning signs on the various rides about having to secure prosthetic legs! It actually must happen a lot for that warning to be necessary. 
 
