@@ -6,7 +6,9 @@ date: 2017/10/04
 layout: article
 ---
 
-Although I've worked in tech for around 15 years now, I'd never owned a mechanical keyboard. When I worked for IBM, there were a couple of older, long haired, linux admins who still rocked some classic beige mechanical keyboards but I never saw the appeal. They were loud and that meant they were pretty annoying for most of the people around us. Still though, the idea stuck - why did they love them so much? I'd never put much stock in my own keyboards, I'm pretty happy to use whatever keyboard was in front of me - though I've bought a few over the years, from small Logitech wireless keyboards to a personal favourite in the full sized Apple chiclet keyboard. So it was time to find out what they (and the internet) love about mechanical keyboards, and I picked up the [Logitech G413](http://amzn.to/2fKn4Bn).
+Although I've worked in tech for around 15 years now, I'd never owned a mechanical keyboard. When I worked for IBM, there were a couple of older, long haired, linux admins who still rocked some classic beige mechanical keyboards but I never saw the appeal. They were loud and that meant they were pretty annoying for most of the people around us. Still though, the idea stuck - why did they love them so much?
+
+I'd never put much stock in my own keyboards, I'm pretty happy to use whatever keyboard was in front of me - though I've bought a few over the years, from small Logitech wireless keyboards to a personal favourite in the full sized Apple chiclet keyboard. So it was time to find out what they (and the internet) love about mechanical keyboards, and I picked up the [Logitech G413](http://amzn.to/2fKn4Bn).
 
 ![The Logitech G413](/images/G413-2.jpg)
 
