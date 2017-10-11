@@ -1,4 +1,3 @@
-
 ---
 title: End to End Game Reviews - Ghost Recon Wildlands
 description: One of the few games I've ever played through more than once. I've enjoyed Ghost Recon Wildlands quite a bit. As usual, many spoilers ahead.
