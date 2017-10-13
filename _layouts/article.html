@@ -10,7 +10,7 @@ layout: default
             </header>
             <div itemprop="articleBody">
             {% if content contains "<!-- ad -->" %}
-		{{ content | split:"<!-- ad -->" | first % }}
+		{{ content | split:"<!-- ad -->" | first }}
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<ins class="adsbygoogle"
 		     style="display:block; text-align:center;"
@@ -21,7 +21,7 @@ layout: default
 		<script>
 		     (adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
-		{{ content | split:"<!-- ad -->" | last % }}
+		{{ content | split:"<!-- ad -->" | last }}
 	    {% else %}
 		{{ content }}
 	    {% endif %}
