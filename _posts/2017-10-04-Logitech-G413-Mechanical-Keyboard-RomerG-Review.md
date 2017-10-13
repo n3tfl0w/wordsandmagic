@@ -15,6 +15,8 @@ I'd never put much stock in my own keyboards, I'm pretty happy to use whatever k
 ### Styling
 Mechanical keyboards tend to serve the gaming market so are often styled in what marketers assume are gaming colours - bright reds, greens, and other garish combos. The Logitech G413, however, comes in two muted colours - a brushed light metal (Silver) with white led backlighting and a darker version (Carbon) with red backlighting. I really prefer my peripherals in muted colours - so I went for the "Silver" version. I love the light grey, black keycap and white backlight combination but some of the older folks around the office we less impressed with the look of the keyboard.
 
+<!-- ad -->
+
 It is also a frameless keyboard which is what drew me to the device in the first place. I really like the design and how prominent the keys are. Again, some other folks around the office wondered whether the rest of the keyboard was still in the box so it's definitely not for everyone.
 
 ### Switches and keycaps
