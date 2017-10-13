@@ -15,6 +15,8 @@ There Dee got really excited about the Knight bus, which I vaguely recognised. T
 
 We went on the Gringotts bank 4D ride there and really enjoyed it - Universal have some amazing 3/4D rides and the Harry Potter ones are done really well. Really immersive. We did the rides a couple of times. We almost missed the entrance to Knockturn Alley which would have been a shame because it's amazing too. 
 
+<!-- ad -->
+
 Even the queues are done well in the Harry Potter section of the park - you get to walk through some excellently recreated parts of the Harry Potter universe. The restaurant in this part of the park is the recreated Leaky Cauldron and Dee loved the decor. The food was decent if quite expensive. 
 
 The link between the two parks from Universal Studios to Universal Island's of Adventure has been transformed into a Harry Potter themed train, the Hogwart's Express and it is well worth doing the trip in both directions - the design of the interior is perfect, and I really enjoyed the journey. The window is set up with a screen and it makes it look like you're actually on the journey to Hogwarts. Even the internal windows have some nice little technology which makes it look like there are people in the corridor on the train - again its really well done. 

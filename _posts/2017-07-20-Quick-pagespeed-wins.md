@@ -76,6 +76,8 @@ The tool then generates your critical path css. You inline this css in your <hea
 ### Optimize Images
 This one is probably where the biggest gains come from on a page with big images like this page - [Six of the very best space pictures](http://wordsandmagic.com/2017/07/12/Space-my-favourite-pictures/), but where I can probably least pass on any knowledge. There are a few online tools for optimizing images that are useful, and in fact the [Google Pagespeed tool](https://developers.google.com/speed/pagespeed/) will also provide you with optimised versions of your imagery.
 
+<!-- ad -->
+
 However, I use a combination of [Jekyll](https://jekyllrb.com/) and [Grunt](https://gruntjs.com/) to build my website so I wanted something with a bit more automation involved. Luckily I came across this handy grunt plugin - [grunt-responsive-images](https://github.com/andismith/grunt-responsive-images). This plugin creates a set of images for you of a number of sizes using GraphicsMagick or ImageMagick. It allows you to add a number of options on each image like size, name, quality etc. but importantly allows you to set your own custom input options using CustomIn. I was able to use this to set the options I found on [this stackoverflow post](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) so that every image was re-created using these options:
 - -quality 85%
 - -sampling-factor 4:2:0

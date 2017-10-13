@@ -14,6 +14,8 @@ This single point of failure was *especially* annoying when I couldn't replicate
 
 It was incidental then that for another project I came across [Buddy](https://buddy.works/). I wasn't able to use it for that other project but it seemed absolutely perfect for what I needed for my personal site.
 
+<!-- ad -->
+
 Buddy lets you create a pipeline of actions built around a shared file system. So I made the leap and moved my blog content and required Jekyll files to a github repo. Buddy can then check for commits to that repo and start a pipeline of actions. In my case this looked like so:
 
 - A grunt action -- this does some up front basics. Minifies my css using the grunt-contrib-cssmin grunt plugin and creates images in various sizes of whatever images I upload for a new article using the grunt-responsive-images plugin by [Andi Smith](https://github.com/andismith/grunt-responsive-images).
