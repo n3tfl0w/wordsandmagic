@@ -35,6 +35,8 @@ Your own character, Nomad, you can style any way you want -- the options seemed 
 
 That said, in the single-player campaign, you play with three utterly forgettable characters, and I'm not sure it's not deliberate. In a game that encourages you to play online with a couple of friends, or much more likely - random folks from the internet, do you want to have to lose a good NPC and replace them with some random you just got matched with? Still, I didn't want to play with random folks that often, so I got used to not knowing which ghost was which unless their name showed up. I knew nothing about them. I learned almost nothing from the stories they randomly regurgitated during the odd hike to an adjacent village or road. In fact, the day I found out that you didn't have to wait for your AI teammates to get into a vehicle before you left was a very happy day. Once you got far enough away they teleported straight into their seats. 
 
+<!-- ad -->
+
 Your CIA handler, Karen Bowman, and the various allies in the Kataris 26, and even the enemy bosses were a different matter. Their stories were well put together. Every so often they appeared on the radio and it added to the immersion and the feeling that these characters were out there, waiting for me. The storyline missions were based around taking down these enemies using various methods. Even Ricky Sandoval, the CIA agent whose death brings you to Bolivia in the first place, has a fleshed out story. You learn more about him by collecting his tapes that are spread around the game world.
 
 ### Favourite Moments

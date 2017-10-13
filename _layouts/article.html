@@ -9,7 +9,22 @@ layout: default
                 <h1 itemprop="headline">{{ page.title }}</h1>
             </header>
             <div itemprop="articleBody">
-            {{ content }}
+            {% if content contains "<!-- ad -->" %}
+		{{ content | split:"<!-- ad -->" | first % }}
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<ins class="adsbygoogle"
+		     style="display:block; text-align:center;"
+		     data-ad-layout="in-article"
+		     data-ad-format="fluid"
+		     data-ad-client="ca-pub-1580942310742378"
+		     data-ad-slot="6021738944"></ins>
+		<script>
+		     (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		{{ content | split:"<!-- ad -->" | last % }}
+	    {% else %}
+		{{ content }}
+	    {% endif %}
             </div>
         </article>
         <span class="hitmeup">Got something to add, or something to complain about? Contact me on Twitter: <a href="http://www.twitter.com/dan_oneill">@dan_oneill</a> or email me <a href="mailto:dan.oneill@live.ie">dan.oneill@live.ie</a></span>
