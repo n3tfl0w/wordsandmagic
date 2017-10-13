@@ -12,7 +12,9 @@ Based on Polish author Andrzej Sapkowski's set of fantasy books, The Witcher 3: 
 
 *This is part of my series - End to End Game reviews. These reviews are of games that I've completed from start to finish - sometimes including some DLC, but for the most part focusing on the main storyline. I don't always finish games, or if I do, its normally long after the games have come out so these reviews are full of spoilers as I reckon most readers will either have completed the game themselves or no longer care about any spoiled storylines. If I've taken the time to finish a game these reviews are going to bias towards games that I've liked and have enjoyed playing. Mostly I write these reviews as a way to memorialize my play through of the game in question.*
 
-The Witcher is a series of RPG games based around the story of Geralt the witcher, who is a kind of mercenary monster hunter. The world is a complicated place full of wearwolves and wraiths and other monster that the witcher will take contracts on for the local populace of elves, dwarves, or humans. He doesn't kill everything he comes across but he can kill most things if required. 
+The Witcher is a series of RPG games based around the story of Geralt the witcher, who is a kind of mercenary monster hunter. The world is a complicated place full of wearwolves and wraiths and other monster that the witcher will take contracts on for the local populace of elves, dwarves, or humans. He doesn't kill everything he comes across but he can kill most things if required.
+
+<!-- ad -->
 
 The third instalment of the series sees the Geralt and Vessimir leave Kaer Morhen, the stronghold of the wolf school of witchers, to find Yennefer. Once she finds him however its off to meet the Emperor of Nilfgaard (voiced by the excellent Charles Dance) who employs Geralt to find Ciri who is being sought by the Wild Hunt. This sets us on a course across the northern kingdoms to try and find Ciri. 
 
