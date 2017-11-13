@@ -26,6 +26,8 @@ I thought fan noise might be a problem for a laptop this thin. Yet on a long tra
 
 Battery life seems decent for my needs. I'm not sure you will get a full day of work out of it. I was on the couch the other day browsing the internet, watching some YouTube, and it looked like it could last at least around 6 hours. Gigabyte reports 10 hours so will be interesting to see what I actually get as I haven't put it to the test. The power brick that comes with it is nice and small so not a problem to carry around. Even has a USB Type A port on it so I can charge my phone at the same time I guess. Might be useful on a train or whatever when you're down to one socket.
 
+<!-- ad -->
+
 On the software side, there is a bit of included software, but most of it seems useful for some purpose or another. Pretty sure it's removable if you need to for whatever reason. Windows 10 is fine, I use it all day in work so I'm used to it. I'll miss OS X but will keep the Air around to keep up to date on it.
 
 The laptop is on the expensive side. It is €200 more than a pretty similar Dell XPS 15. There is some better tech under the hood for that extra money though. You get a better graphics card, GTX 1060 6GB vs GTX 1050 4GB and a full bandwidth Thunderbolt 3 port ([though only after a recent BIOS update](https://egpu.io/forums/pc-setup/aero-15-hq7700-low-tb3-bandwidth-issue/paged/2/)).
