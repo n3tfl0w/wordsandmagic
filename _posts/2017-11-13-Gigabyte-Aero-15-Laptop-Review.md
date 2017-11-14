@@ -6,7 +6,7 @@ date: 2017/11/13
 layout: article
 ---
 
-The Gigabyte Aero 15 a thin but powerful laptop. It features an almost bezel-less 15.6 display, 7th gen Intel Core i7 (7700HQ) and an NVIDIA GeForce GTX 1060 with 6GB of GDDR5 memory. The version I picked up has a 512GB SSD and 16GB of RAM, though both of these are upgradable. The laptop has a nice selection of ports, including mini-DP, USB 3 (Type A) and Thunderbolt 3. It's available in three colours: black, green, and orange. I went for the orange version.
+The Gigabyte Aero 15 a thin but powerful laptop. It features an almost bezel-less 15.6 display, 7th gen Intel Core i7 (7700HQ) and an NVIDIA GeForce GTX 1060 with 6GB of GDDR5 memory. The version I picked up has a 512GB SSD and 16GB of RAM, though both of these are upgradable. The laptop has a nice selection of ports, including mini-DP, USB 3 (Type A) and Thunderbolt 3. It's available in three colours: black, green, and orange. I went for the orange version. [Gigabyte Aero 15 Available from Amazon here](http://amzn.to/2joDqo3). (Affiliate link)
 
 ![Gigabyte Aero 15 in orange](/images/laptop.jpg)
 
@@ -32,4 +32,4 @@ On the software side, there is a bit of included software, but most of it seems 
 
 The laptop is on the expensive side. It is €200 more than a pretty similar Dell XPS 15. There is some better tech under the hood for that extra money though. You get a better graphics card, GTX 1060 6GB vs GTX 1050 4GB and a full bandwidth Thunderbolt 3 port ([though only after a recent BIOS update](https://egpu.io/forums/pc-setup/aero-15-hq7700-low-tb3-bandwidth-issue/paged/2/)).
 
-I'm enjoying the laptop. Its perfect for my requirements and is a nice transition between current and future technologies. It has the ports for my current old Dell 32 inch screen but also has a nice Thunderbolt 3 port. That means I can move to it when I've made my mind up on what new screen to buy. At least I don't have to live the dongle life yet.
+I'm enjoying the laptop. Its perfect for my requirements and is a nice transition between current and future technologies. It has the ports for my current old Dell 32 inch screen but also has a nice Thunderbolt 3 port. That means I can move to it when I've made my mind up on what new screen to buy. At least I don't have to live the dongle life yet. [Gigabyte Aero 15 Available from Amazon here](http://amzn.to/2joDqo3). (Affiliate link)
