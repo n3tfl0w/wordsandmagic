@@ -2,17 +2,17 @@
 title: Amazon Echo vs Google Home in Ireland
 description: Comparing Amazon and Google's IOT devices in Ireland
 author: Dan O’Neill
-date: 2017/11/15
+date: 2017/11/16
 layout: article
 ---
 
 Quick disclaimer: neither of these devices is officially available in Ireland so comparing them now in Ireland is probably doing both Amazon and Google a disservice. But, because both devices are interesting to Irish people they are simple enough to get here. I've been playing around with both Amazon's Echo Dot and Google's Home Mini for some time now, so here's how they seem to compare to each other for the Irish market.
 
-![Amazon Echo Dot](/images/pic.jpg)
+![Amazon Echo Dot](/images/amazon-echo-dot.jpg)
 
 **Amazon's Echo Dot** is the smallest and cheapest device in the Amazon Echo range. It has been around a bit longer than the Google Home mini. The Dot connects to Amazon's Alexa services to play music, news bulletins, or connect to other cloud-connected devices in your home. Alexa supports a large number of these services through "skills" that you can enable from the Alexa homepage. It has a 3.5mm connection to connect to speakers that you already have in your home which is a nice touch. With multiple Dots and an Amazon music subscription, you can play music across those devices too which is good for parties or other situations.
 
-![BGoogle Home Mini](/images/pic.jpg)
+![BGoogle Home Mini](/images/google-home-mini.jpg)
 
 **Google Home Mini** is the smallest and cheapest device in Google's Home range. It uses the Google Assistant that many people will already have used with their Android phone or with Google's Allo app. It can connect to many services like the _Echo Dot_ for controlling devices in your home. You can connect your Spotify or Google Play Music accounts too for playing music or podcasts. Unfortunately, the device does not have a 3.5mm connector but relies on connecting to Chromecast devices like the Chromecast audio or Chromecast Ultra. Again, you can sync your music across many devices for parties.
 
@@ -30,4 +30,4 @@ I'm not saying the Echo Dot is a bad device, it's not, and when it eventually ad
 
 **Clear winner for me:** Google's Home Mini, but that's not to say the Echo Dot won't make a comeback later in the game.
 
-Amazon Echo Dot photo by Piotr Cichosz on Unsplash. Google Home Mini photo by Ben Kolde on Unsplash
+Amazon Echo Dot photo by Piotr Cichosz. Google Home Mini photo by Ben Kolde. Both on [unsplash](https://unsplash.com/)
