@@ -12,7 +12,7 @@ Quick disclaimer: neither of these devices is officially available in Ireland so
 
 **Amazon's Echo Dot** is the smallest and cheapest device in the Amazon Echo range. It has been around a bit longer than the Google Home mini. The Dot connects to Amazon's Alexa services to play music, news bulletins, or connect to other cloud-connected devices in your home. Alexa supports a large number of these services through "skills" that you can enable from the Alexa homepage. It has a 3.5mm connection to connect to speakers that you already have in your home which is a nice touch. With multiple Dots and an Amazon music subscription, you can play music across those devices too which is good for parties or other situations.
 
-![BGoogle Home Mini](/images/google-home-mini.jpg)
+![BGoogle Home Mini](/images/google-home-mini-new.jpg)
 
 **Google Home Mini** is the smallest and cheapest device in Google's Home range. It uses the Google Assistant that many people will already have used with their Android phone or with Google's Allo app. It can connect to many services like the _Echo Dot_ for controlling devices in your home. You can connect your Spotify or Google Play Music accounts too for playing music or podcasts. Unfortunately, the device does not have a 3.5mm connector but relies on connecting to Chromecast devices like the Chromecast audio or Chromecast Ultra. Again, you can sync your music across many devices for parties.
 
