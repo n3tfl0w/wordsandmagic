@@ -8,9 +8,11 @@ layout: article
 
 Quick disclaimer: neither of these devices is officially available in Ireland so comparing them now in Ireland is probably doing both Amazon and Google a disservice. But, because both devices are interesting to Irish people they are simple enough to get here. I've been playing around with both Amazon's Echo Dot and Google's Home Mini for some time now, so here's how they seem to compare to each other for the Irish market.
 
-## Update this! ![Both Amazon Echo Dot and Google Home mini](/images/pic.jpg)
+![Amazon Echo Dot](/images/pic.jpg)
 
 **Amazon's Echo Dot** is the smallest and cheapest device in the Amazon Echo range. It has been around a bit longer than the Google Home mini. The Dot connects to Amazon's Alexa services to play music, news bulletins, or connect to other cloud-connected devices in your home. Alexa supports a large number of these services through "skills" that you can enable from the Alexa homepage. It has a 3.5mm connection to connect to speakers that you already have in your home which is a nice touch. With multiple Dots and an Amazon music subscription, you can play music across those devices too which is good for parties or other situations.
+
+![BGoogle Home Mini](/images/pic.jpg)
 
 **Google Home Mini** is the smallest and cheapest device in Google's Home range. It uses the Google Assistant that many people will already have used with their Android phone or with Google's Allo app. It can connect to many services like the _Echo Dot_ for controlling devices in your home. You can connect your Spotify or Google Play Music accounts too for playing music or podcasts. Unfortunately, the device does not have a 3.5mm connector but relies on connecting to Chromecast devices like the Chromecast audio or Chromecast Ultra. Again, you can sync your music across many devices for parties.
 
@@ -27,3 +29,5 @@ For **media playback**, neither device is perfect. Their inbuilt speakers are sm
 I'm not saying the Echo Dot is a bad device, it's not, and when it eventually adds proper support for Ireland it will jump up in my estimations again. That said, the only thing delaying me moving the Dot out of my living room is the lack of [IKEA TRÅDFRI](http://www.ikea.com/ie/en/products/lighting/smart-lighting/) support currently for the Google Home. I even prefer Alexa's voice over the Google Assistant, it just seems less robotic. It's also easier to wake up the Echo using _"Alexa"_ rather than _"OK Google"_ even if that does lead to acquaintances asking me how "Alexis" is every time I see them.
 
 **Clear winner for me:** Google's Home Mini, but that's not to say the Echo Dot won't make a comeback later in the game.
+
+Amazon Echo Dot photo by Piotr Cichosz on Unsplash. Google Home Mini photo by Ben Kolde on Unsplash
