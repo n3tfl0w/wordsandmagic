@@ -347,6 +347,12 @@ article img{
     width: 140%;
     clear:both
 }
+article img + em{
+	float: right;
+	background-color:black;
+	color:white;
+	margin-top: 0px;
+}
 .post iframe.twitter-tweet-rendered{
     float: none;
     margin: 10px auto !important;

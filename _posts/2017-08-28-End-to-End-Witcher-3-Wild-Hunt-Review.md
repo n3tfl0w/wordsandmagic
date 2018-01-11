@@ -9,6 +9,7 @@ layout: article
 Based on Polish author Andrzej Sapkowski's set of fantasy books, The Witcher 3: Wild Hunt is CD Projekt RED's third installment in it's Witcher Series of games. The games follow the story of Geralt, a monster hunter on various quests and this third installment revolves mostly the Wild Hunt and its quest to capture Geralt's adopted daughter Ciri. I feel like that plot synopsis doesn't do this game justice as its much bigger than that. The scale of this game is absolutely enormous, with huge locations and an almost never ending set of stories. It might just be the best game I've ever played, if not the greatest role playing game of all time.
 
 ![An amazing view from the back of  Roach](/images/The_Witcher_3_Wild_Hunt_Blood_and_Wine_Toussaint_is_full_of_places_just_waiting_to_be_discovered_RGB_EN.png)
+*Image: CD Projekt Red*
 
 *This is part of my series - End to End Game reviews. These reviews are of games that I've completed from start to finish - sometimes including some DLC, but for the most part focusing on the main storyline. I don't always finish games, or if I do, its normally long after the games have come out so these reviews are full of spoilers as I reckon most readers will either have completed the game themselves or no longer care about any spoiled storylines. If I've taken the time to finish a game these reviews are going to bias towards games that I've liked and have enjoyed playing. Mostly I write these reviews as a way to memorialize my play through of the game in question.*
 
