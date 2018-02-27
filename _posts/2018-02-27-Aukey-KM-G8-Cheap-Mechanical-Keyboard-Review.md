@@ -2,7 +2,7 @@
 title: Aukey Mechanical Keyboard KM-G8 Review
 description: A very nice and cheap mechanical keyboard.
 author: Dan O’Neill
-date: 2018/02/28
+date: 2018/02/27
 layout: article
 ---
 
