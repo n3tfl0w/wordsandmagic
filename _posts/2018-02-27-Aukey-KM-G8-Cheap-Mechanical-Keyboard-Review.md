@@ -24,8 +24,8 @@ So once my tai hao key caps arrived, it was a simple task to replace the keys I 
 ![My Aukey with custom keycaps from keypop](/images/IMG_20180227_173144.jpg)
 
 My only complaints are: 
-1. Because the switches have a white housing, the frame-less design means that these are visible. It's only a slight complaint as when I sit in front of my keyboard I can't see them, but elsewhere in the room, they are visible.
-2. The space bar isn't as solid as the one on my G413. It works perfectly, but there's a little more play than there should be.
+Because the switches have a white housing, the frame-less design means that these are visible. It's only a slight complaint as when I sit in front of my keyboard I can't see them, but elsewhere in the room, they are visible.
+The space bar isn't as solid as the one on my G413. It works perfectly, but there's a little more play than there should be.
 
 ![You can see the white switch body](/images/IMG_20180227_173110.jpg)
 
