@@ -73,7 +73,7 @@ module.exports = function (grunt) {
               debug: true // Show JSFTP Debugging information
             },
             files: [
-              {expand: true, cwd: './', src: ['_site/**']}
+              {expand: true, cwd: '.', src: ['_site/**'], dest: './'}
             ]
           }
         }
