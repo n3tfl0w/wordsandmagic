@@ -67,6 +67,7 @@ module.exports = function (grunt) {
           wam: {
             options: {
               host: 'wordsandmagic.com',
+              authKey: "wam",
               dest: '/public_html/wordsandmagic.com/',
               incrementalUpdates: true,
               debug: true // Show JSFTP Debugging information
