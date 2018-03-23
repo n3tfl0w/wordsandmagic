@@ -92,6 +92,6 @@ module.exports = function (grunt) {
     grunt.registerTask('dev-buddy', [ 'cssmin', 'responsive_images' ]);
     grunt.registerTask('dev', [ 'cssmin', 'newer:imagemin', 'shell:jekyllBuild' ]);
     grunt.registerTask('deploy', [ 'cssmin', 'ftp-sync']);
-    grunt.registerTask('deploy-buddy', [ 'ftp_push:wam' ]);
+    grunt.registerTask('deploy-buddy', [ 'cssmin', 'ftp_push:wam' ]);
     grunt.registerTask('imgres-buddy', [ 'cssmin', 'responsive_images_extender']);
 };
