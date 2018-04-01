@@ -14,12 +14,12 @@ This week the things I found most interesting: Adam Buxton's excellent podcast. 
 
 **The trees are ok:** Grist's Eric Holthaus recently wrote a really interesting article on trees, forests, and all things climate change. There are some alarming numbers in the article, e.g. the number of trees disappearing every year is an area the size of New Zealand! It's not all gloom though. There's also something weirdly reassuring in that trees and forests will be around forever, but maybe not of the kind we know now. [Up in Smoke](https://grist.org/article/the-last-ditch-effort-to-save-the-worlds-forests-from-climate-change/)
 
-/guy-bowden-95257-unsplash.jpg
+![Photo by Guy Bowden on Unsplash](/images/guy-bowden-95257-unsplash.jpg)
 *Photo by Guy Bowden on Unsplash*
 
 **Industrial chic:** I absolutely love repurposed industrial buildings. One of my dreams would be to turn one of the great old warehouses in Dublin into an amazing place to work and live. Something like [Ricardo Bofill's beautiful old cement factory](http://www.ricardobofill.com/la-fabrica/read/). The Spaces recently ran a great piece on Barcelona's Poblenou district and how these old industrial buildings are being reused as great creative spaces. [How Barcelona’s Poblenou district is becoming the city’s creative heart](https://thespaces.com/2018/03/07/how-barcelonas-poblenou-district-is-becoming-the-citys-creative-heart/). 
 
-/La-Escocesa-Poblenou-barcelona-creative-hub-1.jpg
+![La Escocesa is an ex-industrial building, now a base for 17 artists. Photography courtesy Barcelona Ajuntament, from thespaces.com](/images/La-Escocesa-Poblenou-barcelona-creative-hub-1.jpg)
 *La Escocesa is an ex-industrial building, now a base for 17 artists. Photography courtesy Barcelona Ajuntament, from thespaces.com*
 
 **Faster and faster:** From humble enough beginnings, now the Fast and Furious movies are a huge franchise. I really like the series even if some of the movies haven't been great - _I'm looking at you The Fate of the Furious_ - so I really enjoyed this Fan Service article on the series. [The best way to watch the 'Fast and Furious' movies](http://digg.com/2018/how-to-watch-fast-and-furious)
