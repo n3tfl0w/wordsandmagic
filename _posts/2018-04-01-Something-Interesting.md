@@ -24,7 +24,7 @@ This week the things I found most interesting: Adam Buxton's excellent podcast. 
 
 **Faster and faster:** From humble enough beginnings, now the Fast and Furious movies are a huge franchise. I really like the series even if some of the movies haven't been great - _I'm looking at you The Fate of the Furious_ - so I really enjoyed this Fan Service article on the series. [The best way to watch the 'Fast and Furious' movies](http://digg.com/2018/how-to-watch-fast-and-furious)
 
-**What am I doing with my life** I'm currently reading Chris Boddington's book which my partner got me as part of our first year wedding anniversary. It's very good. I'm also really enjoying Assasins Creed Brotherhood, even if it took me some time to get into it. I'm really enjoying how open the game is - though this is something that sometimes causes me some issues in games. I might get the whole way through this one. 
+**What am I doing with my life** I'm currently reading Chris Bonington's book ([Ascent](https://amzn.to/2Gtaqq2)) which my partner got me as part of our first year wedding anniversary gifts. It's very good. I'm also really enjoying Assasins Creed Brotherhood, even if it took me some time to get into it. I'm really enjoying how open the game is - though this is something that sometimes causes me some issues in games. I might get the whole way through this one. 
 
 I'm also currently learning to type all over again. This time, however, I'm doing it properly - 10 finger touch typing. I'm finding it amazingly hard to do but feel like it would be good in the long run. I'm using [typingclub](https://www.typingclub.com) to help me do this and have found it very useful.
 
