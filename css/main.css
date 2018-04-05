@@ -179,7 +179,6 @@ body{
     overflow-y: hidden;
     position: relative;
     z-index: 1;
-    border-top: 9px solid #ff4500;
 }
 .logo{
     width: 150px;
